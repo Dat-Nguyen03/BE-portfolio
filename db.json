@@ -1,0 +1,1848 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "datnguyen",
+      "pass": "1234",
+      "email": "datnxph23396@fpt.edu.vn",
+      "role": "admin"
+    },
+    {
+      "id": 2,
+      "name": "user",
+      "pass": "1234",
+      "email": "datnxph23396@fpt.edu.vn",
+      "role": "user"
+    },
+    {
+      "name": "dat",
+      "pass": "1234",
+      "email": "dat@gmail.com",
+      "role": "user",
+      "id": 3
+    }
+  ],
+  "slides": [
+    {
+      "id": 1,
+      "src": "./imgs/banner.jpg"
+    },
+    {
+      "id": 2,
+      "src": "https://salt.tikicdn.com/cache/w1080/ts/tikimsp/fc/9e/5d/3b6f92bae9b5cb82c06c54d3fb6c4eb4.png.webp"
+    },
+    {
+      "id": 3,
+      "src": "https://salt.tikicdn.com/cache/w1080/ts/tikimsp/d2/3a/f6/7373f355fae1a7f81a14ef96642c5de3.png.webp"
+    },
+    {
+      "id": 4,
+      "src": "https://salt.tikicdn.com/cache/w1080/ts/tikimsp/e3/34/0c/bdca232532d57a87c8526da27cb54078.png.webp"
+    },
+    {
+      "id": 5,
+      "src": "https://salt.tikicdn.com/cache/w1080/ts/tikimsp/3f/e5/4e/51ec004e08e49e007a2c0bb810fe338f.png.webp"
+    },
+    {
+      "id": 6,
+      "src": "https://salt.tikicdn.com/cache/w1080/ts/tikimsp/04/8a/d0/c1fa247831fae855ddbb3fcf788ebe0d.png.webp"
+    },
+    {
+      "id": 7,
+      "src": "https://salt.tikicdn.com/cache/w1080/ts/tikimsp/c3/07/9e/571d06a25541f405d2b3ee7d702cb7ee.png.webp"
+    },
+    {
+      "id": 8,
+      "src": "https://salt.tikicdn.com/cache/w1080/ts/tka/6e/9a/e0/bd3098457df342e825eddf7c01c9772f.png.webp"
+    },
+    {
+      "id": 9,
+      "src": "https://salt.tikicdn.com/cache/w1080/ts/tikimsp/30/f8/27/23115137e136e740f3f6df1ebf120ea7.png.webp"
+    },
+    {
+      "id": 10,
+      "src": "https://salt.tikicdn.com/cache/w1080/ts/tikimsp/fd/cd/68/33a309fda3d0aebcd28e6538a7f06395.png.webp"
+    }
+  ],
+  "book_categories": [
+    {
+      "id": 316,
+      "name": "Sách tiếng Việt"
+    },
+    {
+      "id": 871,
+      "name": "Sách tư duy - Kỹ năng sống"
+    },
+    {
+      "id": 483,
+      "name": "Sách doanh nhân"
+    },
+    {
+      "id": 385,
+      "name": "Sách kỹ năng làm việc"
+    },
+    {
+      "id": 845,
+      "name": "Truyện ngắn - Tản văn - Tạp Văn"
+    },
+    {
+      "id": 842,
+      "name": "Tác phẩm kinh điển"
+    },
+    {
+      "id": 320,
+      "name": "English Books"
+    },
+    {
+      "id": 14896,
+      "name": "Grammar, vocabulary & skills"
+    },
+    {
+      "id": 9,
+      "name": "Fiction - Literature"
+    },
+    {
+      "id": "111",
+      "name": "Nguyễn Xuân Đạt update "
+    }
+  ],
+  "books": [
+    {
+      "authors": [
+        {
+          "id": 9173,
+          "name": "Paulo Coelho",
+          "slug": "paulo-coelho"
+        }
+      ],
+      "book_cover": null,
+      "categories": {
+        "id": "316",
+        "name": "Sách tiếng Việt"
+      },
+      "current_seller": {
+        "id": 53660,
+        "sku": "3991931835717",
+        "name": "Nhà sách Fahasa",
+        "link": "https://tiki.vn/cua-hang/nha-sach-fahasa",
+        "logo": "ce/b3/22/b8fabaef7909cfe7349e7b538a174ab8.jpg",
+        "price": 51350,
+        "product_id": "56890005",
+        "store_id": 51001,
+        "is_best_store": false,
+        "is_offline_installment_supported": null
+      },
+      "description": "<p><strong>Sơ lược về tác phẩm</strong></p>\n<p>Tất cả những trải nghiệm trong chuyến phiêu du theo đuổi vận mệnh của mình đã giúp Santiago thấu hiểu được ý nghĩa sâu xa nhất của hạnh phúc, hòa hợp với vũ trụ và con người.</p>\n<p>Tiểu thuyết Nhà giả kim của Paulo Coelho như một câu chuyện cổ tích giản dị, nhân ái, giàu chất thơ, thấm đẫm những minh triết huyền bí của phương Đông. Trong lần xuất bản đầu tiên tại Brazil vào năm 1988, sách chỉ bán được 900 bản. Nhưng, với số phận đặc biệt của cuốn sách dành cho toàn nhân loại, vượt ra ngoài biên giới quốc gia, Nhà giả kim đã làm rung động hàng triệu tâm hồn, trở thành một trong những cuốn sách bán chạy nhất mọi thời đại, và có thể làm thay đổi cuộc đời người đọc.</p>\n<p>“Nhưng nhà luyện kim đan không quan tâm mấy đến những điều ấy. Ông đã từng thấy nhiều người đến rồi đi, trong khi ốc đảo và sa mạc vẫn là ốc đảo và sa mạc. Ông đã thấy vua chúa và kẻ ăn xin đi qua biển cát này, cái biển cát thường xuyên thay hình đổi dạng vì gió thổi nhưng vẫn mãi mãi là biển cát mà ông đã biết từ thuở nhỏ. Tuy vậy, tự đáy lòng mình, ông không thể không cảm thấy vui trước hạnh phúc của mỗi người lữ khách, sau bao ngày chỉ có cát vàng với trời xanh nay được thấy chà là xanh tươi hiện ra trước mắt. ‘Có thể Thượng đế tạo ra sa mạc chỉ để cho con người biết quý trọng cây chà là,’ ông nghĩ.”</p>\n<p>- Trích Nhà giả kim</p>\n<p><strong>Nhận định</strong></p>\n<p>“Sau Garcia Márquez, đây là nhà văn Mỹ Latinh được đọc nhiều nhất thế giới.”</p>\n<p>- The Economist, London, Anh</p>\n<p>“Santiago có khả năng cảm nhận bằng trái tim như Hoàng tử bé của Saint-Exupéry.”</p>\n<p>- Frankfurter Allgemeine Zeitung, Đức</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "images": [
+        {
+          "base_url": "https://salt.tikicdn.com/ts/product/45/3b/fc/aa81d0a534b45706ae1eee1e344e80d9.jpg",
+          "is_gallery": true,
+          "label": null,
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/45/3b/fc/aa81d0a534b45706ae1eee1e344e80d9.jpg",
+          "medium_url": "https://salt.tikicdn.com/cache/w300/ts/product/45/3b/fc/aa81d0a534b45706ae1eee1e344e80d9.jpg",
+          "position": null,
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/45/3b/fc/aa81d0a534b45706ae1eee1e344e80d9.jpg",
+          "thumbnail_url": "https://salt.tikicdn.com/cache/200x280/ts/product/45/3b/fc/aa81d0a534b45706ae1eee1e344e80d9.jpg"
+        }
+      ],
+      "list_price": 79000,
+      "name": "Nhà Giả Kim (Tái Bản 2020) update llan 5",
+      "original_price": "1000000",
+      "quantity_sold": {
+        "text": "Đã bán 1000+"
+      },
+      "rating_average": 5,
+      "short_description": "Sơ lược về tác phẩmTất cả những trải nghiệm trong chuyến phiêu du theo đuổi vận mệnh của mình đã giúp Santiago thấu hiểu được ý nghĩa sâu xa nhất của hạnh phúc, hòa hợp với vũ trụ và con người.Tiểu ...",
+      "specifications": [
+        {
+          "name": "Thông tin chung",
+          "attributes": [
+            {
+              "code": "publisher_vn",
+              "name": "Công ty phát hành",
+              "value": "Nhã Nam"
+            },
+            {
+              "code": "publication_date",
+              "name": "Ngày xuất bản",
+              "value": "2020-04-01 00:00:00"
+            },
+            {
+              "code": "dimensions",
+              "name": "Kích thước",
+              "value": "13 x 21 cm"
+            },
+            {
+              "code": "book_cover",
+              "name": "Loại bìa",
+              "value": "Bìa mềm"
+            },
+            {
+              "code": "number_of_page",
+              "name": "Số trang",
+              "value": "228"
+            },
+            {
+              "code": "manufacturer",
+              "name": "Nhà xuất bản",
+              "value": "Nhà Xuất Bản Hà Nội"
+            }
+          ]
+        }
+      ],
+      "id": 9
+    },
+    {
+      "authors": [
+        {
+          "id": 7142,
+          "name": "Napoleon Hill",
+          "slug": "napoleon-hill"
+        }
+      ],
+      "book_cover": null,
+      "categories": {
+        "id": 385,
+        "name": "Sách kỹ năng làm việc",
+        "is_leaf": true
+      },
+      "current_seller": {
+        "id": 1,
+        "sku": "6605507480757",
+        "name": "Tiki Trading",
+        "link": "https://tiki.vn/cua-hang/tiki-trading",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/ee/fa/a0/98f3f134f85cff2c6972c31777629aa0.png",
+        "price": 77000,
+        "product_id": "73633331",
+        "store_id": 40395,
+        "is_best_store": false,
+        "is_offline_installment_supported": null
+      },
+      "description": "Cuốn sách sẽ giúp bạn trở nên giàu có, làm giàu cho cuộc sống của bạn trên tất cả các phương diện của cuộc sống chứ không chỉ về tài chính và vật chất.<br />\nThink and grow rich – 13 nguyên tắc nghĩ giàu, làm giàu là cuốn sách “chỉ dẫn” duy nhất chỉ ra những nguồn lực bạn phải có để thành công. Mỗi chương trong cuốn sách đều đề cập đến bí quyết kiếm tiền, từ việc có niềm tin, có mong muốn đến những kiến thức chuyên sâu, những ý tưởng, những kế hoạch, những cách đưa ra quyết định.<br />\n“THINK AND GROW RICH<br />\nMua nó…<br />\nBạn có một cuốn sách.<br />\nĐọc nó…<br />\nBạn có một kế hoạch làm giàu<br />\nLàm theo kế hoạch đó…<br />\nBạn có cả thế giới!”<br />\nTheo quy luật tự nhiên, bí quyết này sẽ buộc bạn phải trả giá, nhưng cái giá phải trả thấp hơn rất nhiều so với giá trị thực sự của nó. Nó không thể được định giá bởi những người không muốn tìm kiếm nó. Bí quyết này cũng không thể cho đi vì nó không thể mua được bằng tiền, bởi nó có hai phần và một phần vốn đã tồn tại trong những con người sẵn sàng đón nhận nó.<br />\nThông tin tác giả:<br />\nTác giả Oliver Napoleon Hill (26/10/1883 – 08/11/1970) là tác giả người Mỹ, ông được mệnh danh là người sáng lập ra Khoa học thành công. Ông là cố vấn cho hai vị tổng thống Hoa Kỳ Woodrow Wilson và Franklin D. Roosevelt. Napoleon Hill có ảnh hưởng đến thành công của rất nhiều người, đặc biệt là qua triết lý làm giàu trong cuốn sách này. Ông là tác giả của hơn 30 cuốn sách, trong đó có Success through a Positive Mental Attitude viết cùng W. Clement Stone. Ông cũng sáng lập ra ba tạp chí: Hill’s Golden Rule (1919), Napoleon Hill’s Magazine (1921) và Inspiration Magazine (1931).<br /><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "images": [
+        {
+          "base_url": "https://salt.tikicdn.com/ts/product/0b/cd/50/9c219e191737b2757911b962eeb54c2c.jpg",
+          "is_gallery": true,
+          "label": null,
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/0b/cd/50/9c219e191737b2757911b962eeb54c2c.jpg",
+          "medium_url": "https://salt.tikicdn.com/cache/w300/ts/product/0b/cd/50/9c219e191737b2757911b962eeb54c2c.jpg",
+          "position": null,
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/0b/cd/50/9c219e191737b2757911b962eeb54c2c.jpg",
+          "thumbnail_url": "https://salt.tikicdn.com/cache/200x280/ts/product/0b/cd/50/9c219e191737b2757911b962eeb54c2c.jpg"
+        },
+        {
+          "base_url": "https://salt.tikicdn.com/ts/product/38/03/27/da8bf5951313326908cd2504c9f4590b.jpg",
+          "is_gallery": true,
+          "label": null,
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/38/03/27/da8bf5951313326908cd2504c9f4590b.jpg",
+          "medium_url": "https://salt.tikicdn.com/cache/w300/ts/product/38/03/27/da8bf5951313326908cd2504c9f4590b.jpg",
+          "position": null,
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/38/03/27/da8bf5951313326908cd2504c9f4590b.jpg",
+          "thumbnail_url": "https://salt.tikicdn.com/cache/200x280/ts/product/38/03/27/da8bf5951313326908cd2504c9f4590b.jpg"
+        },
+        {
+          "base_url": "https://salt.tikicdn.com/ts/product/54/3c/15/93689933a65d9ff096a6f24757f3e6ab.jpg",
+          "is_gallery": true,
+          "label": null,
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/54/3c/15/93689933a65d9ff096a6f24757f3e6ab.jpg",
+          "medium_url": "https://salt.tikicdn.com/cache/w300/ts/product/54/3c/15/93689933a65d9ff096a6f24757f3e6ab.jpg",
+          "position": null,
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/54/3c/15/93689933a65d9ff096a6f24757f3e6ab.jpg",
+          "thumbnail_url": "https://salt.tikicdn.com/cache/200x280/ts/product/54/3c/15/93689933a65d9ff096a6f24757f3e6ab.jpg"
+        }
+      ],
+      "list_price": 110000,
+      "name": "Think And Grow Rich - 13 Nguyên Tắc Nghĩ Giàu, Làm Giàu (Tái Bản)",
+      "original_price": 110000,
+      "quantity_sold": {
+        "text": "Đã bán 1000+",
+        "value": 9630
+      },
+      "rating_average": 4.8,
+      "short_description": "Cuốn sách sẽ giúp bạn trở nên giàu có, làm giàu cho cuộc sống của bạn trên tất cả các phương diện của cuộc sống chứ không chỉ về tài chính và vật chất.Think and grow rich – 13 nguyên tắc nghĩ giàu, l...",
+      "specifications": [
+        {
+          "name": "Thông tin chung",
+          "attributes": [
+            {
+              "code": "publisher_vn",
+              "name": "Công ty phát hành",
+              "value": "Thái Hà"
+            },
+            {
+              "code": "dimensions",
+              "name": "Kích thước",
+              "value": "15.5 x 24 cm"
+            },
+            {
+              "code": "dich_gia",
+              "name": "Dịch Giả",
+              "value": "Ross Cornwell -Thảo Triều"
+            },
+            {
+              "code": "book_cover",
+              "name": "Loại bìa",
+              "value": "Bìa mềm"
+            },
+            {
+              "code": "number_of_page",
+              "name": "Số trang",
+              "value": "399"
+            },
+            {
+              "code": "manufacturer",
+              "name": "Nhà xuất bản",
+              "value": "Nhà Xuất Bản Lao Động"
+            }
+          ]
+        }
+      ],
+      "id": 10
+    },
+    {
+      "authors": [
+        {
+          "id": 638625,
+          "name": "Albert Rutherford",
+          "slug": "albert-rutherford"
+        }
+      ],
+      "book_cover": null,
+      "categories": {
+        "id": 316,
+        "name": "Sách tiếng Việt",
+        "is_leaf": false
+      },
+      "current_seller": {
+        "id": 53660,
+        "sku": "8365231991803",
+        "name": "Nhà sách Fahasa",
+        "link": "https://tiki.vn/cua-hang/nha-sach-fahasa",
+        "logo": "ce/b3/22/b8fabaef7909cfe7349e7b538a174ab8.jpg",
+        "price": 59400,
+        "product_id": "48754550",
+        "store_id": 51001,
+        "is_best_store": false,
+        "is_offline_installment_supported": null
+      },
+      "description": "<p style=\"text-align: justify;\">Như bạn có thể thấy, chìa khóa để trở thành một người có tư duy phản biện tốt chính là sự tự nhận thức. Bạn cần phải đánh giá trung thực những điều trước đây bạn nghĩ là đúng, cũng như quá trình suy nghĩ đã dẫn bạn tới những kết luận đó. Nếu bạn không có những lý lẽ hợp lý, hoặc nếu suy nghĩ của bạn bị ảnh hưởng bởi những kinh nghiệm và cảm xúc, thì lúc đó hãy cân nhắc sử dụng tư duy phản biện! Bạn cần phải nhận ra được rằng con người, kể từ khi sinh ra, rất giỏi việc đưa ra những lý do lý giải cho những suy nghĩ khiếm khuyết của mình. Nếu bạn đang có những kết luận sai lệch này thì có một sự thật là những đức tin của bạn thường mâu thuẫn với nhau và đó thường là kết quả của thiên kiến xác nhận, nhưng nếu bạn biết điều này, thì bạn đã tiến gần hơn tới sự thật rồi!</p>\n<p style=\"text-align: justify;\">Những người tư duy phản biện cũng biết rằng họ cần thu thập những ý tưởng và đức tin của mọi người. Tư duy phản biện không thể tự nhiên mà có.</p>\n<p style=\"text-align: justify;\">Những người khác có thể đưa ra những góc nhìn khác mà bạn có thể chưa bao giờ nghĩ tới, và họ có thể chỉ ra những lỗ hổng trong logic của bạn mà bạn đã hoàn toàn bỏ qua. Bạn không cần phải hoàn toàn đồng ý với ý kiến của những người khác, bởi vì điều này cũng có thể dẫn tới những vấn đề liên quan đến thiên kiến, nhưng một cuộc thảo luận phản biện là một bài tập tư duy cực kỳ hiệu quả.</p>\n<p style=\"text-align: justify;\">Việc lắng nghe những ý kiến của người khác cũng có thể giúp bạn nhận ra rằng phạm vi tri thức của bạn không phải là vô hạn. Không ai có thể biết hết tất cả mọi thứ. Nhưng với việc chia sẻ và đánh giá phê bình kiến thức, chúng ta có thể mở rộng tâm trí. Nếu điều này khiến bạn cảm thấy không thoải mái, không sao cả. Trên thực tế, bước ra ngoài vùng an toàn là một điều quan trọng để mở rộng niềm tin và suy nghĩ của bạn. Tư duy phản biện không phải là chỉ biết vài thứ, và chắc chắn không phải việc xác <br />nhận những điều bạn đã biết. Thay vào đó, nó xoay quanh việc tìm kiếm sự thật – và biến chúng trở thành thứ bạn biết. </p>\n<p><img src=\"https://salt.tikicdn.com/ts/tmp/7c/e5/13/b8ef3e019e10058662a893201be0c34b.jpg\" alt=\"\" width=\"750\" height=\"619\" /></p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "images": [
+        {
+          "base_url": "https://salt.tikicdn.com/ts/product/22/cb/a9/524a27dcd45e8a13ae6eecb3dfacba7c.jpg",
+          "is_gallery": true,
+          "label": null,
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/22/cb/a9/524a27dcd45e8a13ae6eecb3dfacba7c.jpg",
+          "medium_url": "https://salt.tikicdn.com/cache/w300/ts/product/22/cb/a9/524a27dcd45e8a13ae6eecb3dfacba7c.jpg",
+          "position": null,
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/22/cb/a9/524a27dcd45e8a13ae6eecb3dfacba7c.jpg",
+          "thumbnail_url": "https://salt.tikicdn.com/cache/200x280/ts/product/22/cb/a9/524a27dcd45e8a13ae6eecb3dfacba7c.jpg"
+        },
+        {
+          "base_url": "https://salt.tikicdn.com/ts/product/71/c2/4b/58afce3cf6c10b648d1d28252fdf5e48.jpg",
+          "is_gallery": true,
+          "label": null,
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/71/c2/4b/58afce3cf6c10b648d1d28252fdf5e48.jpg",
+          "medium_url": "https://salt.tikicdn.com/cache/w300/ts/product/71/c2/4b/58afce3cf6c10b648d1d28252fdf5e48.jpg",
+          "position": null,
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/71/c2/4b/58afce3cf6c10b648d1d28252fdf5e48.jpg",
+          "thumbnail_url": "https://salt.tikicdn.com/cache/200x280/ts/product/71/c2/4b/58afce3cf6c10b648d1d28252fdf5e48.jpg"
+        }
+      ],
+      "list_price": 99000,
+      "name": "Rèn Luyện Tư Duy Phản Biện",
+      "original_price": 99000,
+      "quantity_sold": {
+        "text": "Đã bán 1000+",
+        "value": 2105
+      },
+      "rating_average": 4.8,
+      "short_description": "Như bạn có thể thấy, chìa khóa để trở thành một người có tư duy phản biện tốt chính là sự tự nhận thức. Bạn cần phải đánh giá trung thực những điều trước đây bạn nghĩ là đúng, cũng như quá trình suy n...",
+      "specifications": [
+        {
+          "name": "Thông tin chung",
+          "attributes": [
+            {
+              "code": "publisher_vn",
+              "name": "Công ty phát hành",
+              "value": "1980 Books"
+            },
+            {
+              "code": "publication_date",
+              "name": "Ngày xuất bản",
+              "value": "2019-12-01 00:00:00"
+            },
+            {
+              "code": "dimensions",
+              "name": "Kích thước",
+              "value": "13 x 19 cm"
+            },
+            {
+              "code": "book_cover",
+              "name": "Loại bìa",
+              "value": "Bìa mềm"
+            },
+            {
+              "code": "number_of_page",
+              "name": "Số trang",
+              "value": "204"
+            },
+            {
+              "code": "manufacturer",
+              "name": "Nhà xuất bản",
+              "value": "Nhà Xuất Bản Phụ Nữ"
+            }
+          ]
+        }
+      ],
+      "id": 12
+    },
+    {
+      "authors": [
+        {
+          "id": 4213891,
+          "name": "A Crazy Mind team",
+          "slug": "a-crazy-mind-team"
+        }
+      ],
+      "book_cover": null,
+      "categories": {
+        "id": 316,
+        "name": "Sách tiếng Việt",
+        "is_leaf": false
+      },
+      "current_seller": {
+        "id": 53660,
+        "sku": "3277474975317",
+        "name": "Nhà sách Fahasa",
+        "link": "https://tiki.vn/cua-hang/nha-sach-fahasa",
+        "logo": "ce/b3/22/b8fabaef7909cfe7349e7b538a174ab8.jpg",
+        "price": 54000,
+        "product_id": "89480890",
+        "store_id": 51001,
+        "is_best_store": false,
+        "is_offline_installment_supported": null
+      },
+      "description": "<p>NHỮNG ĐÊM KHÔNG NGỦ NHỮNG NGÀY CHẬM TRÔI - A CRAZY MIND</p>\n<p>“Những đêm không ngủ, những ngày chậm trôi” đại diện cho một hành tinh mới - nơi nỗi đau tinh thần được đưa ra ánh sáng và chữa lành.</p>\n<p>Cuốn sách là tập hợp những câu chuyện có thật của những số phận khác nhau đang gặp phải các vấn đề về tâm lý: trầm cảm, rối loạn lo âu, rối loạn lưỡng cực… và những người đang học tập và làm việc trong ngành tâm lý học.</p>\n<p>“Nếu thế giới này còn thứ gì giữ bạn lại, là tình yêu thương hay sự quan tâm trong phút giây nào đó, mong bạn đừng gạt nó đi, bạn đừng bỏ qua sự cố gắng của bản thân dù nhỏ bé nhất!”- Khải Trạch. Hóa ra tận cùng nỗi đau và tận cùng sự chống chọi là một lòng tha thiết sống, lòng tha thiết bám rễ ở cuộc đời này như thế.</p>\n<p>“Những đêm không ngủ, những ngày chậm trôi” là một khoảng lặng giữa những nốt nhạc vội vã chạy nhảy giữa cuộc sống hiện đại, để những con người dù mang trong mình những tổn thương tâm lý hay không đều cùng ngồi lại bên nhau, soi tỏ tâm hồn nhau bằng ánh sáng của sự thấu cảm, trao gửi cho nhau thương yêu và kết nối để chữa lành.</p>\n<p>Thông qua cuốn sách, A Crazy Mind mong muốn đưa một góc nhìn mới đến độc giả về thế giới của những con người đang phải đấu tranh với những nỗi đau tinh thần cũng như những câu chuyện thực tế ít được đề cập của những người đang học tập và làm việc trong ngành tâm lý học.</p>\n<p>Đây không phải cuốn sách đọc để giải trí, mà là một bức tranh “cảm xúc” được ghép từ những câu chuyện đủ đầy các mảng sáng tối lẩn khuất thẳm sâu trong tâm hồn. Hy vọng đây là một món ăn tinh thần làm đầy thêm sự phong phú trong tâm hồn bạn.</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "images": [
+        {
+          "base_url": "https://salt.tikicdn.com/ts/product/a8/e9/36/94bb68f3b55bb93a593fec97c087915f.jpg",
+          "is_gallery": true,
+          "label": null,
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/a8/e9/36/94bb68f3b55bb93a593fec97c087915f.jpg",
+          "medium_url": "https://salt.tikicdn.com/cache/w300/ts/product/a8/e9/36/94bb68f3b55bb93a593fec97c087915f.jpg",
+          "position": null,
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/a8/e9/36/94bb68f3b55bb93a593fec97c087915f.jpg",
+          "thumbnail_url": "https://salt.tikicdn.com/cache/200x280/ts/product/a8/e9/36/94bb68f3b55bb93a593fec97c087915f.jpg"
+        }
+      ],
+      "list_price": 86000,
+      "name": "Những Đêm Không Ngủ, Những Ngày Chậm Trôi",
+      "original_price": 86000,
+      "quantity_sold": {
+        "text": "Đã bán 567",
+        "value": 567
+      },
+      "rating_average": 4.8,
+      "short_description": "NHỮNG ĐÊM KHÔNG NGỦ NHỮNG NGÀY CHẬM TRÔI - A CRAZY MIND“Những đêm không ngủ, những ngày chậm trôi” đại diện cho một hành tinh mới - nơi nỗi đau tinh thần được đưa ra ánh sáng và chữa lành.Cuốn sách ...",
+      "specifications": [
+        {
+          "name": "Thông tin chung",
+          "attributes": [
+            {
+              "code": "publisher_vn",
+              "name": "Công ty phát hành",
+              "value": "Người Trẻ Việt"
+            },
+            {
+              "code": "publication_date",
+              "name": "Ngày xuất bản",
+              "value": "2021-03-01 00:00:00"
+            },
+            {
+              "code": "dimensions",
+              "name": "Kích thước",
+              "value": "13 x 20.5 cm"
+            },
+            {
+              "code": "book_cover",
+              "name": "Loại bìa",
+              "value": "Bìa mềm"
+            },
+            {
+              "code": "number_of_page",
+              "name": "Số trang",
+              "value": "192"
+            },
+            {
+              "code": "manufacturer",
+              "name": "Nhà xuất bản",
+              "value": "Nhà Xuất Bản Văn Học"
+            }
+          ]
+        }
+      ],
+      "id": 13
+    },
+    {
+      "book_cover": null,
+      "categories": {
+        "id": 845,
+        "name": "Truyện ngắn - Tản văn - Tạp Văn",
+        "is_leaf": true
+      },
+      "current_seller": {
+        "id": 9988,
+        "sku": "8897351166941",
+        "name": "AHABOOKS",
+        "link": "https://tiki.vn/cua-hang/ahabooks",
+        "logo": "7c/b8/e1/357f6a5d18da8daa4e9060a6b7eb9d5f.png",
+        "price": 224500,
+        "product_id": "175800232",
+        "store_id": 9778,
+        "is_best_store": false,
+        "is_offline_installment_supported": null
+      },
+      "description": "<p>Đây là sách dành cho tuổi học trò - tuổi ô mai - tuổi trái tim lần đầu biết rung độ</p>\n<p> ở tuổi chập choạng ấy, các em rất cần liều thuốc cho tâm hồn: để biết bao dung, nhân ái, yêu người và yêu mì</p>\n<p> để biết yêu là đã nhậ</p>\n<p>để nói yêu thôi đừng nói yêu mãi mãi</p>\n<p>Và</p>\n<p>Nếu biết trăm năm là hữu hạ</p>\n<p>ớ gì ta không sống thật sâ</p>\n<p>***</p>\n<p>NẾU BIẾT TRĂM NĂM LÀ HỮU HẠN</p>\n<p>Đây là tập tản văn của cặp vợ chồng Đông Vy - Phạm Công Luận. Thật vui khi họ ký tặng các em.</p>\n<p>ấn bản bìa cứng - minh hoạ màu</p>\n<p>Kỷ niệm tái bản lần thứ 20</p>\n\n<p>“Người ta gọi tuổi mới lớn là “tuổi biết buồn”. “Biết buồn” tức là chạm ngõ cuộc đời rồi đó. Biết buồn tức là bắt đầu nhận ra sự hiện hữu của những khoảng trống trong tâm hồn. Biết buồn là khi nhận ra rằng có những lúc mình cảm thấy cô độc. Khi đó, hãy dành cho sự cô độc một khoảng riêng, hãy đóng khung sự cô đơn trong giới hạn của nó, như một căn phòng trống trong ngôi nhà tâm hồn. Mỗi lần vào căn phòng ấy, dù tự nguyện hay bị xô đẩy, thì bạn vẫn có thể điềm tĩnh khám phá bản thân trong sự tĩnh lặng. để rồi sau đó, bạn bình thản bước ra, khép cánh cửa lại và trở về với cuộc sống bề bộn thường ngày, vốn lắm nỗi buồn nhưng cũng không bao giờ thiếu niềm vui.”</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "images": [
+        {
+          "base_url": "https://salt.tikicdn.com/ts/product/ef/6c/b1/e14d862b8a24c546dce69c71582089de.jpg",
+          "is_gallery": true,
+          "label": null,
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/ef/6c/b1/e14d862b8a24c546dce69c71582089de.jpg",
+          "medium_url": "https://salt.tikicdn.com/cache/w300/ts/product/ef/6c/b1/e14d862b8a24c546dce69c71582089de.jpg",
+          "position": null,
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/ef/6c/b1/e14d862b8a24c546dce69c71582089de.jpg",
+          "thumbnail_url": "https://salt.tikicdn.com/cache/200x280/ts/product/ef/6c/b1/e14d862b8a24c546dce69c71582089de.jpg"
+        },
+        {
+          "base_url": "https://salt.tikicdn.com/ts/product/79/93/65/57033379a589da9f14732afa9b950be7.jpg",
+          "is_gallery": true,
+          "label": null,
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/79/93/65/57033379a589da9f14732afa9b950be7.jpg",
+          "medium_url": "https://salt.tikicdn.com/cache/w300/ts/product/79/93/65/57033379a589da9f14732afa9b950be7.jpg",
+          "position": null,
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/79/93/65/57033379a589da9f14732afa9b950be7.jpg",
+          "thumbnail_url": "https://salt.tikicdn.com/cache/200x280/ts/product/79/93/65/57033379a589da9f14732afa9b950be7.jpg"
+        },
+        {
+          "base_url": "https://salt.tikicdn.com/ts/product/df/a2/71/98134188283cdd0067659c2e5978790e.jpg",
+          "is_gallery": true,
+          "label": null,
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/df/a2/71/98134188283cdd0067659c2e5978790e.jpg",
+          "medium_url": "https://salt.tikicdn.com/cache/w300/ts/product/df/a2/71/98134188283cdd0067659c2e5978790e.jpg",
+          "position": null,
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/df/a2/71/98134188283cdd0067659c2e5978790e.jpg",
+          "thumbnail_url": "https://salt.tikicdn.com/cache/200x280/ts/product/df/a2/71/98134188283cdd0067659c2e5978790e.jpg"
+        },
+        {
+          "base_url": "https://salt.tikicdn.com/ts/product/ec/50/44/8e1fecebfb3d072809afdf32ab3e420c.jpg",
+          "is_gallery": true,
+          "label": null,
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/ec/50/44/8e1fecebfb3d072809afdf32ab3e420c.jpg",
+          "medium_url": "https://salt.tikicdn.com/cache/w300/ts/product/ec/50/44/8e1fecebfb3d072809afdf32ab3e420c.jpg",
+          "position": null,
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/ec/50/44/8e1fecebfb3d072809afdf32ab3e420c.jpg",
+          "thumbnail_url": "https://salt.tikicdn.com/cache/200x280/ts/product/ec/50/44/8e1fecebfb3d072809afdf32ab3e420c.jpg"
+        },
+        {
+          "base_url": "https://salt.tikicdn.com/ts/product/ef/bb/8c/70937b536e0c8fdf81e5a3a96bc0537c.jpg",
+          "is_gallery": true,
+          "label": null,
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/ef/bb/8c/70937b536e0c8fdf81e5a3a96bc0537c.jpg",
+          "medium_url": "https://salt.tikicdn.com/cache/w300/ts/product/ef/bb/8c/70937b536e0c8fdf81e5a3a96bc0537c.jpg",
+          "position": null,
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/ef/bb/8c/70937b536e0c8fdf81e5a3a96bc0537c.jpg",
+          "thumbnail_url": "https://salt.tikicdn.com/cache/200x280/ts/product/ef/bb/8c/70937b536e0c8fdf81e5a3a96bc0537c.jpg"
+        }
+      ],
+      "list_price": 224500,
+      "name": "NẾU BIẾT TRĂM NĂM LÀ HỮU HẠN - Bìa cứng - ấn bản kỷ niệm lần in thứ 20 – Phạm Lữ Ân",
+      "original_price": 224500,
+      "quantity_sold": {
+        "text": "Đã bán 8",
+        "value": 8
+      },
+      "rating_average": 5,
+      "short_description": "Đây là sách dành cho tuổi học trò - tuổi ô mai - tuổi trái tim lần đầu biết rung độ ở tuổi chập choạng ấy, các em rất cần liều thuốc cho tâm hồn: để biết bao dung, nhân ái, yêu người và yêu mì để bi...",
+      "specifications": [
+        {
+          "name": "Thông tin chung",
+          "attributes": [
+            {
+              "code": "publisher_vn",
+              "name": "Công ty phát hành",
+              "value": "Phương Nam Book"
+            },
+            {
+              "code": "manufacturer",
+              "name": "Nhà xuất bản",
+              "value": "Nhà Xuất Bản Hội Nhà Văn"
+            }
+          ]
+        }
+      ],
+      "id": 14
+    },
+    {
+      "authors": [
+        {
+          "id": 572221,
+          "name": "Donald Keene",
+          "slug": "donald-keene"
+        }
+      ],
+      "book_cover": null,
+      "categories": {
+        "id": 842,
+        "name": "Tác phẩm kinh điển",
+        "is_leaf": true
+      },
+      "current_seller": {
+        "id": 281062,
+        "sku": "6076974972755",
+        "name": "Bamboo Books",
+        "link": "https://tiki.vn/cua-hang/bamboo-books",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/46/9a/b3/e4fbfd97e7607ea4d2ff8e9ad769121b.jpg",
+        "price": 240000,
+        "product_id": "183541046",
+        "store_id": 268132,
+        "is_best_store": false,
+        "is_offline_installment_supported": null
+      },
+      "description": "<p>Triều đại Minh Trị là giai đoạn khai sinh ra nước Nhật mới, chuyển từ quốc gia phong kiến lạc hậu sang một xã hội công nghiệp lập hiến hiện đại, tạo nên một cuộc duy tân thần kì mà cho đến nay vẫn là mô hình châu Á lôi cuốn. Mô tả từ bên trong công cuộc khai sinh này với những nhân vật lịch sử liên quan, tác phẩm <em>Thiên hoàng Minh Trị</em> sẽ dắt chúng ta đi qua những giai đoạn cuộc đời của vị hoàng đế này, từ những năm tháng ấu thơ được giáo dục theo truyền thống đến khi thiết triều giải quyết chính sự, từ cuộc hôn nhân với hoàng hậu đến mối quan hệ với các trắc thất, từ ảnh hưởng của tư tưởng Nho giáo cho đến lúc khoác lên mình bộ quân phục châu Â Qua đó, bức tranh toàn diện về cả Thiên hoàng lẫn những biến động mạnh mẽ trong thời kì lịch sử quan trọng của Nhật Bản hiện lên sống động trước mắt độc giả.</p>\n<p><em>Thiên hoàng Minh Trị</em> là tác phẩm nổi bật của Donald Keene - một học giả khổng lồ về Nhật Bản. Bản in lần này có thêm <em>Lời nói đầu dành cho độc giả Việt Nam</em> của tác giả và <em>Dẫn nhập</em> của TS. Nguyễn Xuân Xanh. Ngoài ra, sách có hai phụ lục in màu:<em> Danh sách các thiên hoàng Nhật Bản, Một số hình ảnh thời Minh Trị</em>.</p>\n<p><strong><u>Vài nét về tác giả:</u></strong></p>\n<p>Donald Keene là một học giả khổng lồ về Nhật Bản, người đã xuất bản hàng chục đầu sách bằng cả tiếng Anh lẫn tiếng Nhật về lịch sử, văn hóa và văn học Nhật Bản, góp phần làm cho văn hóa Nhật Bản được giới thiệu mạnh mẽ ra thế giới, đồng thời cũng trở nên sống động hơn trong ý thức người Nhật.</p>\n<p>Trong nhiều năm, Donald Keene đã chia thời gian sống của mình giữa Manhattan và Tokyo. Nhưng sau thảm họa sóng thần và hạt nhân tháng 3 năm 2011, ông quyết định rời Mỹ đến định cư tại Nhật để chia sẻ với người dân ở đây việc phải chứng kiến cảnh người nước ngoài rời bỏ Nhật Bản. Ngày 24 tháng 2 năm 2019, ông qua đời tại một bệnh viện ở Tokyo, hưởng thọ 96 tuổi.</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "images": [
+        {
+          "base_url": "https://salt.tikicdn.com/ts/product/b5/42/19/4e614bc580b3de9c8b0aca634a22f705.jpg",
+          "is_gallery": true,
+          "label": null,
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/b5/42/19/4e614bc580b3de9c8b0aca634a22f705.jpg",
+          "medium_url": "https://salt.tikicdn.com/cache/w300/ts/product/b5/42/19/4e614bc580b3de9c8b0aca634a22f705.jpg",
+          "position": null,
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/b5/42/19/4e614bc580b3de9c8b0aca634a22f705.jpg",
+          "thumbnail_url": "https://salt.tikicdn.com/cache/200x280/ts/product/b5/42/19/4e614bc580b3de9c8b0aca634a22f705.jpg"
+        },
+        {
+          "base_url": "https://salt.tikicdn.com/ts/product/2c/88/ab/01f01b9e99610dcde7c4ebd977b6ebf3.jpg",
+          "is_gallery": true,
+          "label": null,
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/2c/88/ab/01f01b9e99610dcde7c4ebd977b6ebf3.jpg",
+          "medium_url": "https://salt.tikicdn.com/cache/w300/ts/product/2c/88/ab/01f01b9e99610dcde7c4ebd977b6ebf3.jpg",
+          "position": null,
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/2c/88/ab/01f01b9e99610dcde7c4ebd977b6ebf3.jpg",
+          "thumbnail_url": "https://salt.tikicdn.com/cache/200x280/ts/product/2c/88/ab/01f01b9e99610dcde7c4ebd977b6ebf3.jpg"
+        },
+        {
+          "base_url": "https://salt.tikicdn.com/ts/product/46/a4/db/f93ae74663670a2c306aa9c4fbc8f561.jpg",
+          "is_gallery": true,
+          "label": null,
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/46/a4/db/f93ae74663670a2c306aa9c4fbc8f561.jpg",
+          "medium_url": "https://salt.tikicdn.com/cache/w300/ts/product/46/a4/db/f93ae74663670a2c306aa9c4fbc8f561.jpg",
+          "position": null,
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/46/a4/db/f93ae74663670a2c306aa9c4fbc8f561.jpg",
+          "thumbnail_url": "https://salt.tikicdn.com/cache/200x280/ts/product/46/a4/db/f93ae74663670a2c306aa9c4fbc8f561.jpg"
+        },
+        {
+          "base_url": "https://salt.tikicdn.com/ts/product/4a/54/cb/1fb110604946b2f97e0aa514df3c9805.jpg",
+          "is_gallery": true,
+          "label": null,
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/4a/54/cb/1fb110604946b2f97e0aa514df3c9805.jpg",
+          "medium_url": "https://salt.tikicdn.com/cache/w300/ts/product/4a/54/cb/1fb110604946b2f97e0aa514df3c9805.jpg",
+          "position": null,
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/4a/54/cb/1fb110604946b2f97e0aa514df3c9805.jpg",
+          "thumbnail_url": "https://salt.tikicdn.com/cache/200x280/ts/product/4a/54/cb/1fb110604946b2f97e0aa514df3c9805.jpg"
+        },
+        {
+          "base_url": "https://salt.tikicdn.com/ts/product/94/e6/a8/28b66c9c5a6d391992b0435fd739e38f.jpg",
+          "is_gallery": true,
+          "label": null,
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/94/e6/a8/28b66c9c5a6d391992b0435fd739e38f.jpg",
+          "medium_url": "https://salt.tikicdn.com/cache/w300/ts/product/94/e6/a8/28b66c9c5a6d391992b0435fd739e38f.jpg",
+          "position": null,
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/94/e6/a8/28b66c9c5a6d391992b0435fd739e38f.jpg",
+          "thumbnail_url": "https://salt.tikicdn.com/cache/200x280/ts/product/94/e6/a8/28b66c9c5a6d391992b0435fd739e38f.jpg"
+        }
+      ],
+      "list_price": 300000,
+      "name": "THIÊN HOÀNG MINH TRỊ - BÌA MỀM",
+      "original_price": 300000,
+      "rating_average": 0,
+      "short_description": "Triều đại Minh Trị là giai đoạn khai sinh ra nước Nhật mới, chuyển từ quốc gia phong kiến lạc hậu sang một xã hội công nghiệp lập hiến hiện đại, tạo nên một cuộc duy tân thần kì mà cho đến nay vẫn là ...",
+      "specifications": [
+        {
+          "name": "Thông tin chung",
+          "attributes": [
+            {
+              "code": "publisher_vn",
+              "name": "Công ty phát hành",
+              "value": "Đông A"
+            },
+            {
+              "code": "publication_date",
+              "name": "Ngày xuất bản",
+              "value": "2019-12-13 00:29:58"
+            },
+            {
+              "code": "dich_gia",
+              "name": "Dịch Giả",
+              "value": "Ca Lâu Ca"
+            },
+            {
+              "code": "book_cover",
+              "name": "Loại bìa",
+              "value": "Bìa mềm"
+            },
+            {
+              "code": "number_of_page",
+              "name": "Số trang",
+              "value": "1112"
+            },
+            {
+              "code": "manufacturer",
+              "name": "Nhà xuất bản",
+              "value": "NXB Dân Trí"
+            }
+          ]
+        }
+      ],
+      "id": 15
+    },
+    {
+      "book_cover": null,
+      "categories": {
+        "id": 842,
+        "name": "Tác phẩm kinh điển",
+        "is_leaf": true
+      },
+      "current_seller": {
+        "id": 223928,
+        "sku": "8441299338953",
+        "name": "BÌNH BÁN BOOK",
+        "link": "https://tiki.vn/cua-hang/binh-ban-book",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/f9/47/41/5047162e827ef55d6ea989bc88036345.jpg",
+        "price": 1700000,
+        "product_id": "175534384",
+        "store_id": 210960,
+        "is_best_store": false,
+        "is_offline_installment_supported": null
+      },
+      "description": "<p>Các bạn thân mến,</p>\n<p>Ở Việt Nam, trong số các tác phẩm của Dostoyevsky, “Tội ác và hình phạt” có lẽ là cuốn tiếp cận được với đông đảo công chúng nhất. Xuất bản lần đầu ở Nga vào năm 1886, “Tội ác và hình phạt” là một trong những tác phẩm đồ sộ làm nên tên tuổi Dostoyevsky, khẳng định nghệ thuật phân tích tâm lý bậc thầy của ông.</p>\n<p>Nhã Nam xin trân trọng giới thiệu đến các bạn ấn bản cao cấp và giới hạn cuốn tiểu thuyết “Tội ác và hình phạt” bản dịch của dịch giả Lý Quốc Sỉnh. Đây cũng là tựa sách khép lại dự án ra mắt ấn bản cao cấp và giới hạn 3 cuốn tiểu thuyết quan trọng nhất trong sự nghiệp của văn hào Nga Fyodor Dostoyevsky, gồm:</p>\n<p>- Lũ người quỷ ám, bản dịch của Nguyễn Ngọc Minh</p>\n<p>- Anh em nhà Karamazov, bản dịch của Phạm Mạnh Hùng</p>\n<p>- Tội ác và hình phạt, bản dịch của Lý Quốc Sỉnh</p>\n<p>***</p>\n<p>ẤN BẢN BÌA DA PU CAO CẤP VÀ GIỚI HẠN “TỘI ÁC VÀ HÌNH PHẠT” CỦA DOSTOYEVSKY – S300</p>\n<p>Nhã Nam phát hành.</p>\n<p>Bình Book phân phối.</p>\n<p>***</p>\n<p>VỀ NỘI DUNG</p>\n<p>Câu chuyện xoay quanh chàng thanh niên Raskolnikov, một cựu sinh viên luật sống trong cảnh bần hàn thiếu thốn ở St. Petersburg. Ôm mộng một ngày sẽ được như Napoléon Bonaparte, Raskolnikov sống khép kín, tự coi mình là phi thường, chìm trong những suy tư cuộn xoáy, nung nấu niềm căm uất về tình trạng bất công, phi lý của xã hội. Chàng tin rằng mình thuộc về lớp người siêu phàm, có thể vượt lên trên mọi luật lệ để làm nên việc lớn. Trong một lần nọ, chàng quyết định đến nhà mụ chủ tiệm cầm đồ mà chàng tin là không đáng sống trên đời này và xuống tay với mụ, rồi cướp tiền bạc châu báu.</p>\n<p>Nhưng cái Raskolnikov không ngờ đến là sau sự kiện khủng khiếp đó, chàng phải sống trong lo âu thấp thỏm và căng thẳng tột độ, bị dày vò triền miên. Hành động ấy, tưởng chừng là một bước chứng tỏ chàng có thể vượt qua ranh giới luân lý phàm tục để trở nên vĩ đại, lại đẩy chàng vào một cuộc khủng hoảng trầm trọng về đạo đức và tinh thần.</p>\n<p> </p>\n<p>VỀ HÌNH THỨC</p>\n<p>Ấn bản cao cấp và đặc biệt “Tội ác và hình phạt” được thiết kế đồng bộ và gáy theo concept liên hoàn với 2 cuốn “Lũ người quỷ ám” và “Anh em nhà Karamazov”.  Quy cách cụ thể của cuốn này được mô tả như dưới đây.</p>\n<p>- Bìa sách được làm từ da PU, màu xanh Blue Moon, vân sóng biển, bồi trên carton 3 li</p>\n<p>- Bìa trước lấy minh họa trung tâm là cây rìu và thập giá, họa tiết hoa tuyết ở 4 góc. Tên sách, tên tác giả, cùng với minh họa chính, các họa tiết phụ cùng khung viền bìa trước được ép nhũ hồng Rose Quazrt với công nghệ cao tần, sắc nét, bền đẹp; lồng ghép với các họa tiết dập chìm.</p>\n<p>- Bìa sau gồm minh họa cây rìu và thập giá tối giản, lồng khung tròn kép, các họa tiết phụ được ép nhũ hồng Rose Quazrt lồng ghép với các họa tiết dập chìm.</p>\n<p>- Gáy sách gồm tên sách, tên tác giả, logo Nhã Nam ép nhũ hồng Rose Quazrt, lồng ghép với các họa tiết dập chìm. Gáy sách được thiết kế theo concept liên hoàn, để nối kết với những cuốn khác của Dos về sau.</p>\n<p>- Cạnh sách được sơn màu xanh ngọc cả ba cạnh.</p>\n<p>- Sách dày 600 trang, in khổ 17x25 cm, ruột được in trên giấy tốt màu ngà, định lượng 100gsm.</p>\n<p>- Sách đựng trong hộp bồi thủ công trên carton 3 ly, in họa tiết thủy ấn. Tên sách, tên tác giả trên hộp được ép nhũ hồng Rose Quazrt, đồng bộ với bìa sách.</p>\n<p>- Các ấn bản cao cấp giới hạn này sẽ chỉ in duy nhất một lần 300 bản, được đánh số từ 1-300 và được đóng triện Nhã Nam.</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "images": [
+        {
+          "base_url": "https://salt.tikicdn.com/ts/product/70/53/c2/5e40f93acf2e35a55c262e277457197f.jpeg",
+          "is_gallery": true,
+          "label": null,
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/70/53/c2/5e40f93acf2e35a55c262e277457197f.jpeg",
+          "medium_url": "https://salt.tikicdn.com/cache/w300/ts/product/70/53/c2/5e40f93acf2e35a55c262e277457197f.jpeg",
+          "position": null,
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/70/53/c2/5e40f93acf2e35a55c262e277457197f.jpeg",
+          "thumbnail_url": "https://salt.tikicdn.com/cache/200x280/ts/product/70/53/c2/5e40f93acf2e35a55c262e277457197f.jpeg"
+        },
+        {
+          "base_url": "https://salt.tikicdn.com/ts/product/95/45/20/dcd1ff1ba53dee24ccdc2f2ebc904c75.jpg",
+          "is_gallery": true,
+          "label": null,
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/95/45/20/dcd1ff1ba53dee24ccdc2f2ebc904c75.jpg",
+          "medium_url": "https://salt.tikicdn.com/cache/w300/ts/product/95/45/20/dcd1ff1ba53dee24ccdc2f2ebc904c75.jpg",
+          "position": null,
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/95/45/20/dcd1ff1ba53dee24ccdc2f2ebc904c75.jpg",
+          "thumbnail_url": "https://salt.tikicdn.com/cache/200x280/ts/product/95/45/20/dcd1ff1ba53dee24ccdc2f2ebc904c75.jpg"
+        },
+        {
+          "base_url": "https://salt.tikicdn.com/ts/product/76/12/82/77947ecc1512c482cd58eb3c0722640d.jpg",
+          "is_gallery": true,
+          "label": null,
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/76/12/82/77947ecc1512c482cd58eb3c0722640d.jpg",
+          "medium_url": "https://salt.tikicdn.com/cache/w300/ts/product/76/12/82/77947ecc1512c482cd58eb3c0722640d.jpg",
+          "position": null,
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/76/12/82/77947ecc1512c482cd58eb3c0722640d.jpg",
+          "thumbnail_url": "https://salt.tikicdn.com/cache/200x280/ts/product/76/12/82/77947ecc1512c482cd58eb3c0722640d.jpg"
+        },
+        {
+          "base_url": "https://salt.tikicdn.com/ts/product/a7/64/af/743ffaf3e17edc73ba2cef2ed585395b.jpg",
+          "is_gallery": true,
+          "label": null,
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/a7/64/af/743ffaf3e17edc73ba2cef2ed585395b.jpg",
+          "medium_url": "https://salt.tikicdn.com/cache/w300/ts/product/a7/64/af/743ffaf3e17edc73ba2cef2ed585395b.jpg",
+          "position": null,
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/a7/64/af/743ffaf3e17edc73ba2cef2ed585395b.jpg",
+          "thumbnail_url": "https://salt.tikicdn.com/cache/200x280/ts/product/a7/64/af/743ffaf3e17edc73ba2cef2ed585395b.jpg"
+        },
+        {
+          "base_url": "https://salt.tikicdn.com/ts/product/51/c9/b7/740dd3893d8f10dc0c736e9b7e6dc87d.jpg",
+          "is_gallery": true,
+          "label": null,
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/51/c9/b7/740dd3893d8f10dc0c736e9b7e6dc87d.jpg",
+          "medium_url": "https://salt.tikicdn.com/cache/w300/ts/product/51/c9/b7/740dd3893d8f10dc0c736e9b7e6dc87d.jpg",
+          "position": null,
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/51/c9/b7/740dd3893d8f10dc0c736e9b7e6dc87d.jpg",
+          "thumbnail_url": "https://salt.tikicdn.com/cache/200x280/ts/product/51/c9/b7/740dd3893d8f10dc0c736e9b7e6dc87d.jpg"
+        },
+        {
+          "base_url": "https://salt.tikicdn.com/ts/product/36/f3/87/8f9e1f5c46801953638be9e5a25fee8f.jpg",
+          "is_gallery": true,
+          "label": null,
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/36/f3/87/8f9e1f5c46801953638be9e5a25fee8f.jpg",
+          "medium_url": "https://salt.tikicdn.com/cache/w300/ts/product/36/f3/87/8f9e1f5c46801953638be9e5a25fee8f.jpg",
+          "position": null,
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/36/f3/87/8f9e1f5c46801953638be9e5a25fee8f.jpg",
+          "thumbnail_url": "https://salt.tikicdn.com/cache/200x280/ts/product/36/f3/87/8f9e1f5c46801953638be9e5a25fee8f.jpg"
+        },
+        {
+          "base_url": "https://salt.tikicdn.com/ts/product/fc/a8/9a/11a59014e5827ef49477a4421f80698d.jpg",
+          "is_gallery": true,
+          "label": null,
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/fc/a8/9a/11a59014e5827ef49477a4421f80698d.jpg",
+          "medium_url": "https://salt.tikicdn.com/cache/w300/ts/product/fc/a8/9a/11a59014e5827ef49477a4421f80698d.jpg",
+          "position": null,
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/fc/a8/9a/11a59014e5827ef49477a4421f80698d.jpg",
+          "thumbnail_url": "https://salt.tikicdn.com/cache/200x280/ts/product/fc/a8/9a/11a59014e5827ef49477a4421f80698d.jpg"
+        },
+        {
+          "base_url": "https://salt.tikicdn.com/ts/product/5e/dc/5b/1c19f124eccd2cf4a429907e2141d51a.jpg",
+          "is_gallery": true,
+          "label": null,
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/5e/dc/5b/1c19f124eccd2cf4a429907e2141d51a.jpg",
+          "medium_url": "https://salt.tikicdn.com/cache/w300/ts/product/5e/dc/5b/1c19f124eccd2cf4a429907e2141d51a.jpg",
+          "position": null,
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/5e/dc/5b/1c19f124eccd2cf4a429907e2141d51a.jpg",
+          "thumbnail_url": "https://salt.tikicdn.com/cache/200x280/ts/product/5e/dc/5b/1c19f124eccd2cf4a429907e2141d51a.jpg"
+        },
+        {
+          "base_url": "https://salt.tikicdn.com/ts/product/a5/21/01/66638b7d1ab38550094d3f2587d9716f.jpg",
+          "is_gallery": true,
+          "label": null,
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/a5/21/01/66638b7d1ab38550094d3f2587d9716f.jpg",
+          "medium_url": "https://salt.tikicdn.com/cache/w300/ts/product/a5/21/01/66638b7d1ab38550094d3f2587d9716f.jpg",
+          "position": null,
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/a5/21/01/66638b7d1ab38550094d3f2587d9716f.jpg",
+          "thumbnail_url": "https://salt.tikicdn.com/cache/200x280/ts/product/a5/21/01/66638b7d1ab38550094d3f2587d9716f.jpg"
+        },
+        {
+          "base_url": "https://salt.tikicdn.com/ts/product/02/2d/dc/1e529934b0226dbee11408ef46446430.jpeg",
+          "is_gallery": true,
+          "label": null,
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/02/2d/dc/1e529934b0226dbee11408ef46446430.jpeg",
+          "medium_url": "https://salt.tikicdn.com/cache/w300/ts/product/02/2d/dc/1e529934b0226dbee11408ef46446430.jpeg",
+          "position": null,
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/02/2d/dc/1e529934b0226dbee11408ef46446430.jpeg",
+          "thumbnail_url": "https://salt.tikicdn.com/cache/200x280/ts/product/02/2d/dc/1e529934b0226dbee11408ef46446430.jpeg"
+        },
+        {
+          "base_url": "https://salt.tikicdn.com/ts/product/d4/d8/b4/5bb05439d664f559dcfa673e80d317e5.jpeg",
+          "is_gallery": true,
+          "label": null,
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/d4/d8/b4/5bb05439d664f559dcfa673e80d317e5.jpeg",
+          "medium_url": "https://salt.tikicdn.com/cache/w300/ts/product/d4/d8/b4/5bb05439d664f559dcfa673e80d317e5.jpeg",
+          "position": null,
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/d4/d8/b4/5bb05439d664f559dcfa673e80d317e5.jpeg",
+          "thumbnail_url": "https://salt.tikicdn.com/cache/200x280/ts/product/d4/d8/b4/5bb05439d664f559dcfa673e80d317e5.jpeg"
+        },
+        {
+          "base_url": "https://salt.tikicdn.com/ts/product/fa/b8/13/e8537a5aa2b3dae6c104a0237f416ac7.jpeg",
+          "is_gallery": true,
+          "label": null,
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/fa/b8/13/e8537a5aa2b3dae6c104a0237f416ac7.jpeg",
+          "medium_url": "https://salt.tikicdn.com/cache/w300/ts/product/fa/b8/13/e8537a5aa2b3dae6c104a0237f416ac7.jpeg",
+          "position": null,
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/fa/b8/13/e8537a5aa2b3dae6c104a0237f416ac7.jpeg",
+          "thumbnail_url": "https://salt.tikicdn.com/cache/200x280/ts/product/fa/b8/13/e8537a5aa2b3dae6c104a0237f416ac7.jpeg"
+        },
+        {
+          "base_url": "https://salt.tikicdn.com/ts/product/f9/c6/52/59d9211fdfa1792015b18c5aca843863.jpeg",
+          "is_gallery": true,
+          "label": null,
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/f9/c6/52/59d9211fdfa1792015b18c5aca843863.jpeg",
+          "medium_url": "https://salt.tikicdn.com/cache/w300/ts/product/f9/c6/52/59d9211fdfa1792015b18c5aca843863.jpeg",
+          "position": null,
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/f9/c6/52/59d9211fdfa1792015b18c5aca843863.jpeg",
+          "thumbnail_url": "https://salt.tikicdn.com/cache/200x280/ts/product/f9/c6/52/59d9211fdfa1792015b18c5aca843863.jpeg"
+        }
+      ],
+      "list_price": 1700000,
+      "name": "ẤN BẢN BÌA DA PU CAO CẤP VÀ GIỚI HẠN “TỘI ÁC VÀ HÌNH PHẠT” CỦA DOSTOYEVSKY – S300 – NHÃ NAM ",
+      "original_price": 1700000,
+      "quantity_sold": {
+        "text": "Đã bán 18",
+        "value": 18
+      },
+      "rating_average": 5,
+      "short_description": "Các bạn thân mến,Ở Việt Nam, trong số các tác phẩm của Dostoyevsky, “Tội ác và hình phạt” có lẽ là cuốn tiếp cận được với đông đảo công chúng nhất. Xuất bản lần đầu ở Nga vào năm 1886, “Tội ác và hìn...",
+      "specifications": [
+        {
+          "name": "Thông tin chung",
+          "attributes": [
+            {
+              "code": "publisher_vn",
+              "name": "Công ty phát hành",
+              "value": "Nhã Nam "
+            },
+            {
+              "code": "manufacturer",
+              "name": "Nhà xuất bản",
+              "value": "Nhà Xuất Bản Hà Nội"
+            }
+          ]
+        }
+      ],
+      "id": 16
+    },
+    {
+      "authors": [
+        {
+          "id": 12018,
+          "name": "Fyodor Dostoyevsky",
+          "slug": "fyodor-dostoyevsky"
+        }
+      ],
+      "book_cover": null,
+      "categories": {
+        "id": 842,
+        "name": "Tác phẩm kinh điển",
+        "is_leaf": true
+      },
+      "current_seller": {
+        "id": 1,
+        "sku": "7304598894052",
+        "name": "Tiki Trading",
+        "link": "https://tiki.vn/cua-hang/tiki-trading",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/ee/fa/a0/98f3f134f85cff2c6972c31777629aa0.png",
+        "price": 260000,
+        "product_id": "102379715",
+        "store_id": 40395,
+        "is_best_store": false,
+        "is_offline_installment_supported": null
+      },
+      "description": "<p>\"“Dos đã cho tôi nhiều hơn bất cứ nhà tư tưởng nào của nhân loại.” – A. Einstein</p>\n<p>“Anh em nhà Karamazov là cuốn tiểu thuyết vĩ đại nhất từng được viết nên.” – Sigmund Freud</p>\n<p>“Một con người đơn độc mà viết nổi Anh em nhà Karamazov thì đó là phép mầu.” – Hermann Hesse (Nobel Văn chương 1946)</p>\n<p>______________</p>\n<p>“Muốn viết cho hay thì phải đau khổ, đau khổ.” – F. Dostoyevsky</p>\n<p>Cuỗm được khối tài sản lớn từ người vợ đầu Adelaida Ivanovna xuất thân quý tộc giàu có, đày đọa vợ thứ hai Sofya Ivanovna nhu mì, khiến nàng hóa điên mà chết, thậm chí cưỡng bức cô gái ngây dại ngoài phố sinh ra đứa con hoang quái dị Smerdyakov, Fyodor Karamazov ma mãnh và tàn nhẫn sau khi góa cả hai vợ cũng tống khứ nốt, không nuôi nấng đứa con nào, sống đây đó sa đọa với đám đàn bà mạt hạng. Ở tuổi xế chiều, lão già ấy mới trở về điền địa của mình. Nơi đây, nhà Karamazov đoàn tụ. Nhưng chỉ là để đẩy tấn bi kịch của những tâm hồn bị hành hạ lên tột cùng bi thả</p>\n<p>Dos đã viết Anh em nhà Karamazov trong các năm 1878-1880, khi ngọn đèn sinh mệnh dần lụi tắt, nhưng kỳ lạ thay, cuốn tiểu thuyết khốc liệt đó được đánh giá là kiệt tác lớn nhất của ông, đặt ông lên đỉnh cao nhất của tài năng, trở thành đại văn hào không thể vượt qua ở mọi thời đại.</p>\n<p><strong>TÁC GIẢ:</strong></p>\n<p>Fyodor Mikhailovitch Dostoyevsky (1821-1881) – nhà văn, nhà tư tưởng, triết gia, nhà báo Nga, thành viên Viện Hàn lâm Khoa học Petersburg từ năm 1877. Dostoyevsky viết văn từ năm 20 tuổi, nổi tiếng nhất với chuỗi tiểu thuyết viết trong 15 năm cuối đời “đưa nhân loại trưởng thành lên một bước”: Tội ác và hình phạt, Chàng ngốc, Lũ người quỷ ám, Đầu xanh tuổi trẻ, Anh em nhà Karamazov. Ông được đánh giá đúng tầm vóc chỉ sau khi đã qua đời, được xem là người sáng lập hay dự báo chủ nghĩa hiện sinh thế kỷ 20. Nhiều bộ óc thiên tài của thế giới như đại văn hào Nga L. Tolstoy, F. Nietszche, S. Freud, hay A. Einstein… đều đọc Dostoyevsky và nghiêng mình trước tài năng của ông. Nhiều tác phẩm của Dostoevsky được dựng phim, kịch, nhạc kịch cả ở Nga lẫn nước ngoài.<br />\"</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "images": [
+        {
+          "base_url": "https://salt.tikicdn.com/ts/product/e5/44/50/f2f7b7f873c54fed2ee677a283f6cbcb.jpg",
+          "is_gallery": true,
+          "label": null,
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/e5/44/50/f2f7b7f873c54fed2ee677a283f6cbcb.jpg",
+          "medium_url": "https://salt.tikicdn.com/cache/w300/ts/product/e5/44/50/f2f7b7f873c54fed2ee677a283f6cbcb.jpg",
+          "position": null,
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/e5/44/50/f2f7b7f873c54fed2ee677a283f6cbcb.jpg",
+          "thumbnail_url": "https://salt.tikicdn.com/cache/200x280/ts/product/e5/44/50/f2f7b7f873c54fed2ee677a283f6cbcb.jpg"
+        }
+      ],
+      "list_price": 400000,
+      "name": "Anh Em Nhà Karamazov (Bìa Cứng)",
+      "original_price": 400000,
+      "quantity_sold": {
+        "text": "Đã bán 384",
+        "value": 384
+      },
+      "rating_average": 4.8,
+      "short_description": "\"“Dos đã cho tôi nhiều hơn bất cứ nhà tư tưởng nào của nhân loại.” – A. Einstein“Anh em nhà Karamazov là cuốn tiểu thuyết vĩ đại nhất từng được viết nên.” – Sigmund Freud“Một con người đơn độc mà vi...",
+      "specifications": [
+        {
+          "name": "Thông tin chung",
+          "attributes": [
+            {
+              "code": "publisher_vn",
+              "name": "Công ty phát hành",
+              "value": "Nhã Nam"
+            },
+            {
+              "code": "publication_date",
+              "name": "Ngày xuất bản",
+              "value": "2021-05-01 00:00:00"
+            },
+            {
+              "code": "dimensions",
+              "name": "Kích thước",
+              "value": "17 x 25 cm"
+            },
+            {
+              "code": "dich_gia",
+              "name": "Dịch Giả",
+              "value": "Phạm Mạnh Hùng"
+            },
+            {
+              "code": "book_cover",
+              "name": "Loại bìa",
+              "value": "Bìa cứng"
+            },
+            {
+              "code": "number_of_page",
+              "name": "Số trang",
+              "value": "848"
+            },
+            {
+              "code": "manufacturer",
+              "name": "Nhà xuất bản",
+              "value": "Nhà Xuất Bản Hà Nội"
+            }
+          ]
+        }
+      ],
+      "id": 17
+    },
+    {
+      "authors": [
+        {
+          "id": 10480,
+          "name": "La Quán Trung",
+          "slug": "la-quan-trung"
+        }
+      ],
+      "book_cover": null,
+      "categories": {
+        "id": 842,
+        "name": "Tác phẩm kinh điển",
+        "is_leaf": true
+      },
+      "current_seller": {
+        "id": 229927,
+        "sku": "3040242832610",
+        "name": "Đông A Books Official",
+        "link": "https://tiki.vn/cua-hang/dong-a-books-official",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/9f/5f/bd/b1a337741eed8c7b997f8a808abfe9fc.jpg",
+        "price": 273000,
+        "product_id": "128874016",
+        "store_id": 216959,
+        "is_best_store": false,
+        "is_offline_installment_supported": null
+      },
+      "description": "<p>####</p><p>Tam Quốc diễn nghĩa là pho tiểu thuyết lịch sử ưu tú của nền văn học cổ Trung Quốc được độc giả khắp thế giới yêu thích, say mê. Ở nước ta trước đây, Tam Quốc diễn nghĩa đã được dịch ra nhiều bản, trong số đó bản của cụ cử Phan Kế Bính được hoan nghênh hơn cả. Tiếc rằng bản dịch này dựa theo nguyên bản Tam Quốc diễn nghĩa cũ, trong đó có những điểm không được chính xác. Trong bản in tác phẩm này của NXB Phổ Thông năm 1959, cụ phó bảng Bùi Kỷ đã được mời tham gia hiệu đính bằng cách đem đối chiếu với bộ Tam quốc diễn nghĩa của Nhân dân văn học xã xuất bản năm 1958. Kỷ niệm 50 năm NXB Phổ thông lần đầu ra mắt bộ Tam quốc diễn nghĩa 13 tập (1959-2009), Công ty văn hóa Đông A đã chính thức phát hành lại bộ sách quý này dành cho bạn đọc chơi sách và mê truyện Tam Quốc diễn nghĩa.<br> \n<br> \nCác lần tái bản sau này, các tập đều được bổ sung tranh minh họa của các họa sĩ Trung Quốc. Ngoài ra, để tiện cho bạn đọc biết được phạm vi hoạt động của các nhân vật trong truyện, bộ sách tặng kèm một bản địa đồ thời Tam quốc. Đặc biệt, đầu tập 1 là Lời nói đầu của Bộ biên tập Nhân dân văn học xã xuất bản - Trung Quốc giúp bạn đọc thưởng thức được những cái hay trong bộ Tam Quốc diễn nghĩa một cách đầy đủ và sâu sắc. Lần tái bản này, Đông A cũng bổ sung Hậu suất sư biểu - áng văn chương tiêu biểu của Gia Cát Lượng ở chương 97. <br> \n<br> \nTrong suốt 120 hồi của tác phẩm, ngòi bút của nhà văn La Quán Trung đã làm sống lại cả một thời kỳ hỗn loạn khoảng 100 năm trong lịch sử Trung Quốc: vua quan ngu muội tàn bạo, nhân dân khổ cực trăm bề. Tác giả đã nói lên lòng tha thiết của nhân dân mong muốn sống một cuộc đời hạnh phúc, thanh bình, thống nhất. Trong bộ sách, ta cũng sẽ bắt gặp những nhân vật lịch sử điển hình của thời đại như Lưu Bị, Quan Công, Trương Phi, Gia Cát Lượng, Tào Tháo, Đổng Trác, Tôn Quyền, Chu Du… Lời văn Tam Quốc giản dị sáng sủa, những cảnh tuyết ở Ngọa Long Cương, nước ở Đàn Khê, lửa ở Xích Bích, khói ở Hoa Dung đều được vẽ thành những bức tranh tuyệt diệu.<br> \n<br> \nMời các bạn cùng đắm mình vào không khí hào sảng của bộ tiểu thuyết được xếp hàng đầu trong Tứ đại danh tác trong nền văn học cổ điển Trung Hoa!<p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "images": [
+        {
+          "base_url": "https://salt.tikicdn.com/ts/product/86/f4/fb/2466ac14784c38242a2f123e4f472cf1.jpg",
+          "is_gallery": true,
+          "label": null,
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/86/f4/fb/2466ac14784c38242a2f123e4f472cf1.jpg",
+          "medium_url": "https://salt.tikicdn.com/cache/w300/ts/product/86/f4/fb/2466ac14784c38242a2f123e4f472cf1.jpg",
+          "position": null,
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/86/f4/fb/2466ac14784c38242a2f123e4f472cf1.jpg",
+          "thumbnail_url": "https://salt.tikicdn.com/cache/200x280/ts/product/86/f4/fb/2466ac14784c38242a2f123e4f472cf1.jpg"
+        }
+      ],
+      "list_price": 390000,
+      "name": "Tam Quốc Diễn Nghĩa (Trọn Bộ 13 Tập) - Tái Bản 2020",
+      "original_price": 390000,
+      "quantity_sold": {
+        "text": "Đã bán 33",
+        "value": 33
+      },
+      "rating_average": 3.5,
+      "short_description": "####Tam Quốc diễn nghĩa là pho tiểu thuyết lịch sử ưu tú của nền văn học cổ Trung Quốc được độc giả khắp thế giới yêu thích, say mê. Ở nước ta trước đây, Tam Quốc diễn nghĩa đã được dịch ra nhiều bản,...",
+      "specifications": [
+        {
+          "name": "Thông tin chung",
+          "attributes": [
+            {
+              "code": "publisher_vn",
+              "name": "Công ty phát hành",
+              "value": "Đông A"
+            },
+            {
+              "code": "dimensions",
+              "name": "Kích thước",
+              "value": "19 x 13 cm"
+            },
+            {
+              "code": "book_cover",
+              "name": "Loại bìa",
+              "value": "Bìa cứng"
+            },
+            {
+              "code": "number_of_page",
+              "name": "Số trang",
+              "value": "3200"
+            },
+            {
+              "code": "manufacturer",
+              "name": "Nhà xuất bản",
+              "value": "Nhà Xuất Bản Văn Học"
+            }
+          ]
+        }
+      ],
+      "id": 18
+    },
+    {
+      "authors": [
+        {
+          "id": 4415443,
+          "name": "Instant Research Institude",
+          "slug": "instant-research-institude"
+        }
+      ],
+      "book_cover": null,
+      "categories": {
+        "id": 871,
+        "name": "Sách tư duy - Kỹ năng sống",
+        "is_leaf": true
+      },
+      "current_seller": {
+        "id": 36846,
+        "sku": "8529844688334",
+        "name": "Minh Long Book",
+        "link": "https://tiki.vn/cua-hang/minh-long-book",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/0b/aa/8c/a87015616aaeee9e8d1d153c857ddf8a.png",
+        "price": 52000,
+        "product_id": "175811915",
+        "store_id": 36125,
+        "is_best_store": false,
+        "is_offline_installment_supported": null
+      },
+      "description": "<p>Mạng lưới quan hệ cá nhân phong phú là trang bị cần thiết của các cao thủ chốn công sở!</p>\n<p> </p>\n<p><img src=\"https://salt.tikicdn.com/ts/tmp/7c/5a/63/bd655c72393427fea3997bca5ad52cbe.jpg\" alt=\"\" width=\"750\" height=\"750\"><br> <br>Từ xưa đến nay, dường như chưa từng có tiền lệ một đội quân chỉ dựa vào sức mình mà có thể thắng trận. Trong môi trường công sở cũng như vậy, chúng ta không khó để nhận ra những người thành công luôn trang bị cho mình ít nhất ba yếu tố: vốn dồi dào, nguồn thông tin phong phú và mạng lưới các mối quan hệ hiệu quả. </p>\n<p>Theo thống kê liên quan, số người thành công nhờ vốn có sẵn hoặc nguồn thông tin phong phú chỉ chiếm từ 1% đến 5%, 94% số người đạt được thành tựu rực rỡ trong công việc đều là những người biết dựa vào sự trợ giúp của các mối quan hệ cá nhân.</p>\n<p>Kì thực lí do vô cùng đơn giản: Đối với những người mới khởi nghiệp, để có đủ vốn và nắm bắt nguồn thông tin kịp thời thực sự là một việc rất khó. Ngược lại, các mối quan hệ cá nhân có thể mở rộng và phát triển dựa vào sự nỗ lực của bản thân. Vốn và nguồn thông tin đều mang tính ngẫu nhiên và ngắn hạn, còn mạng lưới quan hệ thì ngược lại, càng là những mối quan hệ lâu năm sẽ càng có giá trị.</p>\n<p>Con người sống cần phải chia sẻ và liên tục thử những trải nghiệm mới để theo kịp thời đại. Việc kết giao với những người cách biệt về tuổi tác hay khác ngành nghề sẽ giúp bạn mở mang tri thức, rèn luyện khả năng nhìn nhận một lần bước ra khỏi vòng tròn an toàn của mình, nhất định bạn sẽ phát hiện thấy một bầu trời đầy sao.</p>\n<p>#sách_mới<br>#sách_kĩ_năng<br>#kĩ_năng_công_sở</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "images": [
+        {
+          "base_url": "https://salt.tikicdn.com/ts/product/a9/d4/f0/c6cddbe8bc813582cd925251e440d3e8.jpg",
+          "is_gallery": true,
+          "label": null,
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/a9/d4/f0/c6cddbe8bc813582cd925251e440d3e8.jpg",
+          "medium_url": "https://salt.tikicdn.com/cache/w300/ts/product/a9/d4/f0/c6cddbe8bc813582cd925251e440d3e8.jpg",
+          "position": null,
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/a9/d4/f0/c6cddbe8bc813582cd925251e440d3e8.jpg",
+          "thumbnail_url": "https://salt.tikicdn.com/cache/200x280/ts/product/a9/d4/f0/c6cddbe8bc813582cd925251e440d3e8.jpg"
+        },
+        {
+          "base_url": "https://salt.tikicdn.com/ts/product/f1/00/03/424d49e260c5c26852ef84c22bcc18ed.jpg",
+          "is_gallery": true,
+          "label": null,
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/f1/00/03/424d49e260c5c26852ef84c22bcc18ed.jpg",
+          "medium_url": "https://salt.tikicdn.com/cache/w300/ts/product/f1/00/03/424d49e260c5c26852ef84c22bcc18ed.jpg",
+          "position": null,
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/f1/00/03/424d49e260c5c26852ef84c22bcc18ed.jpg",
+          "thumbnail_url": "https://salt.tikicdn.com/cache/200x280/ts/product/f1/00/03/424d49e260c5c26852ef84c22bcc18ed.jpg"
+        },
+        {
+          "base_url": "https://salt.tikicdn.com/ts/product/7c/5a/63/f23bb421365ee723166249b83b197a31.jpg",
+          "is_gallery": true,
+          "label": null,
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/7c/5a/63/f23bb421365ee723166249b83b197a31.jpg",
+          "medium_url": "https://salt.tikicdn.com/cache/w300/ts/product/7c/5a/63/f23bb421365ee723166249b83b197a31.jpg",
+          "position": null,
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/7c/5a/63/f23bb421365ee723166249b83b197a31.jpg",
+          "thumbnail_url": "https://salt.tikicdn.com/cache/200x280/ts/product/7c/5a/63/f23bb421365ee723166249b83b197a31.jpg"
+        },
+        {
+          "base_url": "https://salt.tikicdn.com/ts/product/19/b7/9f/9aa87e726fc9abec90291fdf80aefa9e.jpg",
+          "is_gallery": true,
+          "label": null,
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/19/b7/9f/9aa87e726fc9abec90291fdf80aefa9e.jpg",
+          "medium_url": "https://salt.tikicdn.com/cache/w300/ts/product/19/b7/9f/9aa87e726fc9abec90291fdf80aefa9e.jpg",
+          "position": null,
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/19/b7/9f/9aa87e726fc9abec90291fdf80aefa9e.jpg",
+          "thumbnail_url": "https://salt.tikicdn.com/cache/200x280/ts/product/19/b7/9f/9aa87e726fc9abec90291fdf80aefa9e.jpg"
+        },
+        {
+          "base_url": "https://salt.tikicdn.com/ts/product/ef/80/d1/361a7dbb311c0011158520a4bc8872ee.jpg",
+          "is_gallery": true,
+          "label": null,
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/ef/80/d1/361a7dbb311c0011158520a4bc8872ee.jpg",
+          "medium_url": "https://salt.tikicdn.com/cache/w300/ts/product/ef/80/d1/361a7dbb311c0011158520a4bc8872ee.jpg",
+          "position": null,
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/ef/80/d1/361a7dbb311c0011158520a4bc8872ee.jpg",
+          "thumbnail_url": "https://salt.tikicdn.com/cache/200x280/ts/product/ef/80/d1/361a7dbb311c0011158520a4bc8872ee.jpg"
+        },
+        {
+          "base_url": "https://salt.tikicdn.com/ts/product/b5/17/35/8b82e74be2d8f7ef6ad5d1459be0037a.jpg",
+          "is_gallery": true,
+          "label": null,
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/b5/17/35/8b82e74be2d8f7ef6ad5d1459be0037a.jpg",
+          "medium_url": "https://salt.tikicdn.com/cache/w300/ts/product/b5/17/35/8b82e74be2d8f7ef6ad5d1459be0037a.jpg",
+          "position": null,
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/b5/17/35/8b82e74be2d8f7ef6ad5d1459be0037a.jpg",
+          "thumbnail_url": "https://salt.tikicdn.com/cache/200x280/ts/product/b5/17/35/8b82e74be2d8f7ef6ad5d1459be0037a.jpg"
+        },
+        {
+          "base_url": "https://salt.tikicdn.com/ts/product/66/a9/9b/2ccf09e69b310963f79d5f1834e11ed4.jpg",
+          "is_gallery": true,
+          "label": null,
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/66/a9/9b/2ccf09e69b310963f79d5f1834e11ed4.jpg",
+          "medium_url": "https://salt.tikicdn.com/cache/w300/ts/product/66/a9/9b/2ccf09e69b310963f79d5f1834e11ed4.jpg",
+          "position": null,
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/66/a9/9b/2ccf09e69b310963f79d5f1834e11ed4.jpg",
+          "thumbnail_url": "https://salt.tikicdn.com/cache/200x280/ts/product/66/a9/9b/2ccf09e69b310963f79d5f1834e11ed4.jpg"
+        },
+        {
+          "base_url": "https://salt.tikicdn.com/ts/product/b5/22/56/bc4c4caddfaf27fe1e3470932623b140.jpg",
+          "is_gallery": true,
+          "label": null,
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/b5/22/56/bc4c4caddfaf27fe1e3470932623b140.jpg",
+          "medium_url": "https://salt.tikicdn.com/cache/w300/ts/product/b5/22/56/bc4c4caddfaf27fe1e3470932623b140.jpg",
+          "position": null,
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/b5/22/56/bc4c4caddfaf27fe1e3470932623b140.jpg",
+          "thumbnail_url": "https://salt.tikicdn.com/cache/200x280/ts/product/b5/22/56/bc4c4caddfaf27fe1e3470932623b140.jpg"
+        },
+        {
+          "base_url": "https://salt.tikicdn.com/ts/product/a7/1f/96/9042b42fef337f8c08f759fd6409c979.jpg",
+          "is_gallery": true,
+          "label": null,
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/a7/1f/96/9042b42fef337f8c08f759fd6409c979.jpg",
+          "medium_url": "https://salt.tikicdn.com/cache/w300/ts/product/a7/1f/96/9042b42fef337f8c08f759fd6409c979.jpg",
+          "position": null,
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/a7/1f/96/9042b42fef337f8c08f759fd6409c979.jpg",
+          "thumbnail_url": "https://salt.tikicdn.com/cache/200x280/ts/product/a7/1f/96/9042b42fef337f8c08f759fd6409c979.jpg"
+        },
+        {
+          "base_url": "https://salt.tikicdn.com/ts/product/d3/47/a4/cee378ada116e6f1592b6f2ac52b559a.jpg",
+          "is_gallery": true,
+          "label": null,
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/d3/47/a4/cee378ada116e6f1592b6f2ac52b559a.jpg",
+          "medium_url": "https://salt.tikicdn.com/cache/w300/ts/product/d3/47/a4/cee378ada116e6f1592b6f2ac52b559a.jpg",
+          "position": null,
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/d3/47/a4/cee378ada116e6f1592b6f2ac52b559a.jpg",
+          "thumbnail_url": "https://salt.tikicdn.com/cache/200x280/ts/product/d3/47/a4/cee378ada116e6f1592b6f2ac52b559a.jpg"
+        }
+      ],
+      "list_price": 80000,
+      "name": "Sách: Cho Đi Và Nhận Lại - Nghệ Thuật Xây Dựng Mối Quan Hệ Nơi Công Sở ",
+      "original_price": 80000,
+      "quantity_sold": {
+        "text": "Đã bán 11",
+        "value": 11
+      },
+      "rating_average": 4.5,
+      "short_description": "Mạng lưới quan hệ cá nhân phong phú là trang bị cần thiết của các cao thủ chốn công sở!  Từ xưa đến nay, dường như chưa từng có tiền lệ một đội quân chỉ dựa vào sức mình mà có thể thắng trận. Trong ...",
+      "specifications": [
+        {
+          "name": "Thông tin chung",
+          "attributes": [
+            {
+              "code": "publisher_vn",
+              "name": "Công ty phát hành",
+              "value": "Minh Long"
+            },
+            {
+              "code": "publication_date",
+              "name": "Ngày xuất bản",
+              "value": "2022-04-16 14:45:25"
+            },
+            {
+              "code": "book_cover",
+              "name": "Loại bìa",
+              "value": "Bìa mềm"
+            },
+            {
+              "code": "number_of_page",
+              "name": "Số trang",
+              "value": "216"
+            },
+            {
+              "code": "manufacturer",
+              "name": "Nhà xuất bản",
+              "value": "Nhà Xuất Bản Thanh Niên"
+            }
+          ]
+        }
+      ],
+      "id": 19
+    },
+    {
+      "authors": [
+        {
+          "id": 163121,
+          "name": "Steven Schuster",
+          "slug": "steven-schuster"
+        }
+      ],
+      "book_cover": null,
+      "categories": {
+        "id": 316,
+        "name": "Sách tiếng Việt",
+        "is_leaf": false
+      },
+      "current_seller": {
+        "id": 53660,
+        "sku": "7757939477726",
+        "name": "Nhà sách Fahasa",
+        "link": "https://tiki.vn/cua-hang/nha-sach-fahasa",
+        "logo": "ce/b3/22/b8fabaef7909cfe7349e7b538a174ab8.jpg",
+        "price": 60800,
+        "product_id": "53599273",
+        "store_id": 51001,
+        "is_best_store": false,
+        "is_offline_installment_supported": null
+      },
+      "description": "<p><strong>TƯ DUY HỆ THỐNG TRONG CÔNG VIỆC </strong></p>\n<p><span style=\"font-weight: 400;\">Khi đối mặt với những vấn đề phức tạp, chúng ta không thể giải quyết chúng bằng kiểu suy nghĩ lối mòn, nước đến chân mới nhảy, mù quáng đâm đầu vào sự vụ Nếu bạn muốn giải quyết tốt hơn các khúc mắc, xóa bỏ những lo âu và phân vân khi bắt tay vào công việc; hãy thử tìm hiểu một mô hình tư duy cao cấp đã được chứng minh hiệu quả trong thực tiễn: Mô hình tư duy hệ thống.</span></p>\n<p><span style=\"font-weight: 400;\">Cuốn sách </span><strong>\"Tư duy hệ thống trong công việc\"</strong><span style=\"font-weight: 400;\"> của tác giả </span><strong>Steven Schuster</strong><span style=\"font-weight: 400;\"> hướng dẫn bạn cách nhìn xa hơn những kết nối thông thường, để đánh giá vấn đề một cách toàn diện, sâu sắc và chính xác hơn. Tư duy hệ thống trong công việc rành mạch giúp bạn hiểu được mối tương quan giữa các yếu tố, qua đó đề ra được kế hoạch chiến lược và tiến tới hành động thật quyết đoán. Nói cách khác, tư duy hệ thống cho phép bạn trở thành chuyên gia trong trò chơi \"ghép hình\". Khi sở hữu một cái nhìn bao quát, tính toán được tương quan giữa các thành phần, bạn hoàn toàn có thể ghép nên những bức tranh, những mô hình không những hoàn chỉnh mà còn đầy tính sáng tạo.</span></p>\n<p><span style=\"font-weight: 400;\">Bằng cách viết ngắn gọn, thông minh, đề cao suy nghĩ khác biệt, tác giả </span><strong>Steven Schuster</strong><span style=\"font-weight: 400;\"> đã cung cấp cho độc giả một công cụ mạnh mẽ để giải quyết những vấn đề khó khăn một cách nhẹ nhàng. Nếu bạn thấy quá tải với vô số chướng ngại vật trong cuộc sống, đã đến lúc cầm lên tác phẩm này và tìm kiếm sự đơn giản trong một thế giới phức tạp!</span></p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "images": [
+        {
+          "base_url": "https://salt.tikicdn.com/ts/product/22/f5/04/eca46d6836c0f9c467c25996e89cd225.jpg",
+          "is_gallery": true,
+          "label": null,
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/22/f5/04/eca46d6836c0f9c467c25996e89cd225.jpg",
+          "medium_url": "https://salt.tikicdn.com/cache/w300/ts/product/22/f5/04/eca46d6836c0f9c467c25996e89cd225.jpg",
+          "position": null,
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/22/f5/04/eca46d6836c0f9c467c25996e89cd225.jpg",
+          "thumbnail_url": "https://salt.tikicdn.com/cache/200x280/ts/product/22/f5/04/eca46d6836c0f9c467c25996e89cd225.jpg"
+        },
+        {
+          "base_url": "https://salt.tikicdn.com/ts/product/07/d2/78/2e7ad745cbe0ba3426f5d074469b21f1.jpg",
+          "is_gallery": true,
+          "label": null,
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/07/d2/78/2e7ad745cbe0ba3426f5d074469b21f1.jpg",
+          "medium_url": "https://salt.tikicdn.com/cache/w300/ts/product/07/d2/78/2e7ad745cbe0ba3426f5d074469b21f1.jpg",
+          "position": null,
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/07/d2/78/2e7ad745cbe0ba3426f5d074469b21f1.jpg",
+          "thumbnail_url": "https://salt.tikicdn.com/cache/200x280/ts/product/07/d2/78/2e7ad745cbe0ba3426f5d074469b21f1.jpg"
+        }
+      ],
+      "list_price": 89000,
+      "name": "Tư Duy Hệ Thống Trong Công Việc",
+      "original_price": 89000,
+      "quantity_sold": {
+        "text": "Đã bán 182",
+        "value": 182
+      },
+      "rating_average": 4.5,
+      "short_description": "TƯ DUY HỆ THỐNG TRONG CÔNG VIỆC Khi đối mặt với những vấn đề phức tạp, chúng ta không thể giải quyết chúng bằng kiểu suy nghĩ lối mòn, nước đến chân mới nhảy, mù quáng đâm đầu vào sự vụ Nếu bạn muốn ...",
+      "specifications": [
+        {
+          "name": "Thông tin chung",
+          "attributes": [
+            {
+              "code": "publisher_vn",
+              "name": "Công ty phát hành",
+              "value": "1980 Books"
+            },
+            {
+              "code": "publication_date",
+              "name": "Ngày xuất bản",
+              "value": "2020-04-04 00:00:00"
+            },
+            {
+              "code": "dimensions",
+              "name": "Kích thước",
+              "value": "13 x 20 cm"
+            },
+            {
+              "code": "dich_gia",
+              "name": "Dịch Giả",
+              "value": "Diệp Ngô"
+            },
+            {
+              "code": "book_cover",
+              "name": "Loại bìa",
+              "value": "Bìa mềm"
+            },
+            {
+              "code": "number_of_page",
+              "name": "Số trang",
+              "value": "168"
+            },
+            {
+              "code": "manufacturer",
+              "name": "Nhà xuất bản",
+              "value": "Nhà Xuất Bản Thế Giới"
+            }
+          ]
+        }
+      ],
+      "id": 20
+    },
+    {
+      "authors": [
+        {
+          "id": 114261,
+          "name": "Nguyễn Anh Dũng",
+          "slug": "nguyen-anh-dung"
+        }
+      ],
+      "book_cover": null,
+      "categories": {
+        "id": 871,
+        "name": "Sách tư duy - Kỹ năng sống",
+        "is_leaf": true
+      },
+      "current_seller": {
+        "id": 10684,
+        "sku": "5073534261497",
+        "name": "Sbooks",
+        "link": "https://tiki.vn/cua-hang/sbooks",
+        "logo": "9d/e5/9d/bb34d8f3b0ec92b23e963bc369510acd.jpg",
+        "price": 84150,
+        "product_id": "121410061",
+        "store_id": 10463,
+        "is_best_store": false,
+        "is_offline_installment_supported": null
+      },
+      "description": "<p><strong>TƯ DUY NGƯỢC</strong></p>\n<p><strong> Tác giả Nguyễn Anh Dũng</strong></p>\n<p>Chúng ta thực sự có hạnh phúc không? Chúng ta có đang sống cuộc đời mình không? Chúng ta có dám dũng cảm chiến thắng mọi khuôn mẫu, định kiến, đi ngược đám đông để khẳng định bản sắc riêng của mình không?. Có bao giờ bạn tự hỏi như thế, rồi có câu trả lời cho chính mình?</p>\n<p><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://salt.tikicdn.com/ts/tmp/3e/a3/34/758556b8efcb37c1a3b28c67a949bbb3.jpg\" alt=\"\" width=\"661\" height=\"495\" /></p>\n<p>Tôi biết biết, không phải ai cũng đang sống cuộc đời của mình, không phải ai cũng dám vượt qua mọi lối mòn để sáng tạo và thành công… Dựa trên việc nghiên cứu, tìm hiểu, chắt lọc, tìm kiếm, ghi chép từ các câu chuyện trong đời sống, cũng như trải nghiệm của bản thân, tôi viết cuốn sách này.</p>\n<p><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://salt.tikicdn.com/ts/tmp/85/54/e6/b5ce4f9b236da13b61563d71644d5dd1.jpg\" alt=\"\" width=\"661\" height=\"495\" /></p>\n<p>Cuốn sách sẽ giải mã bạn là ai, bạn cần <strong>Tư duy ngược</strong> để thành công và hạnh phúc như thế nào và các phương pháp giúp bạn dũng cảm sống cuộc đời mà bạn muốn.</p>\n<p style=\"text-align: right;\"><strong>CÔNG TY CỔ PHẦN SBOOKS</strong></p>\n<p style=\"text-align: right;\"><strong>PHÁT HÀNH TRÊN TOÀN QUỐC</strong></p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "images": [
+        {
+          "base_url": "https://salt.tikicdn.com/ts/product/a5/76/eb/f0cd28e1b2e331ccbfc528c8827c3b07.jpg",
+          "is_gallery": true,
+          "label": null,
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/a5/76/eb/f0cd28e1b2e331ccbfc528c8827c3b07.jpg",
+          "medium_url": "https://salt.tikicdn.com/cache/w300/ts/product/a5/76/eb/f0cd28e1b2e331ccbfc528c8827c3b07.jpg",
+          "position": null,
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/a5/76/eb/f0cd28e1b2e331ccbfc528c8827c3b07.jpg",
+          "thumbnail_url": "https://salt.tikicdn.com/cache/200x280/ts/product/a5/76/eb/f0cd28e1b2e331ccbfc528c8827c3b07.jpg"
+        },
+        {
+          "base_url": "https://salt.tikicdn.com/ts/product/ea/c0/db/7108d7bf46bb552b61192c0bfd3aeead.jpg",
+          "is_gallery": true,
+          "label": null,
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/ea/c0/db/7108d7bf46bb552b61192c0bfd3aeead.jpg",
+          "medium_url": "https://salt.tikicdn.com/cache/w300/ts/product/ea/c0/db/7108d7bf46bb552b61192c0bfd3aeead.jpg",
+          "position": null,
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/ea/c0/db/7108d7bf46bb552b61192c0bfd3aeead.jpg",
+          "thumbnail_url": "https://salt.tikicdn.com/cache/200x280/ts/product/ea/c0/db/7108d7bf46bb552b61192c0bfd3aeead.jpg"
+        },
+        {
+          "base_url": "https://salt.tikicdn.com/ts/product/5d/99/7a/a9f6172309f488c0ca2884da4f05d175.jpg",
+          "is_gallery": true,
+          "label": null,
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/5d/99/7a/a9f6172309f488c0ca2884da4f05d175.jpg",
+          "medium_url": "https://salt.tikicdn.com/cache/w300/ts/product/5d/99/7a/a9f6172309f488c0ca2884da4f05d175.jpg",
+          "position": null,
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/5d/99/7a/a9f6172309f488c0ca2884da4f05d175.jpg",
+          "thumbnail_url": "https://salt.tikicdn.com/cache/200x280/ts/product/5d/99/7a/a9f6172309f488c0ca2884da4f05d175.jpg"
+        },
+        {
+          "base_url": "https://salt.tikicdn.com/ts/product/3e/a3/34/8804cf815a6eb5e3ae55b59575e63353.jpg",
+          "is_gallery": true,
+          "label": null,
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/3e/a3/34/8804cf815a6eb5e3ae55b59575e63353.jpg",
+          "medium_url": "https://salt.tikicdn.com/cache/w300/ts/product/3e/a3/34/8804cf815a6eb5e3ae55b59575e63353.jpg",
+          "position": null,
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/3e/a3/34/8804cf815a6eb5e3ae55b59575e63353.jpg",
+          "thumbnail_url": "https://salt.tikicdn.com/cache/200x280/ts/product/3e/a3/34/8804cf815a6eb5e3ae55b59575e63353.jpg"
+        },
+        {
+          "base_url": "https://salt.tikicdn.com/ts/product/85/54/e6/c5a55356b7a5635b30e366b94da05bee.jpg",
+          "is_gallery": true,
+          "label": null,
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/85/54/e6/c5a55356b7a5635b30e366b94da05bee.jpg",
+          "medium_url": "https://salt.tikicdn.com/cache/w300/ts/product/85/54/e6/c5a55356b7a5635b30e366b94da05bee.jpg",
+          "position": null,
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/85/54/e6/c5a55356b7a5635b30e366b94da05bee.jpg",
+          "thumbnail_url": "https://salt.tikicdn.com/cache/200x280/ts/product/85/54/e6/c5a55356b7a5635b30e366b94da05bee.jpg"
+        },
+        {
+          "base_url": "https://salt.tikicdn.com/ts/product/65/dd/30/719ddb2b829fa050964cf5688f32ece6.jpg",
+          "is_gallery": true,
+          "label": null,
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/65/dd/30/719ddb2b829fa050964cf5688f32ece6.jpg",
+          "medium_url": "https://salt.tikicdn.com/cache/w300/ts/product/65/dd/30/719ddb2b829fa050964cf5688f32ece6.jpg",
+          "position": null,
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/65/dd/30/719ddb2b829fa050964cf5688f32ece6.jpg",
+          "thumbnail_url": "https://salt.tikicdn.com/cache/200x280/ts/product/65/dd/30/719ddb2b829fa050964cf5688f32ece6.jpg"
+        }
+      ],
+      "list_price": 99000,
+      "name": "TƯ DUY NGƯỢC - Nguyễn Anh Dũng",
+      "original_price": 99000,
+      "quantity_sold": {
+        "text": "Đã bán 54",
+        "value": 54
+      },
+      "rating_average": 4.6,
+      "short_description": "TƯ DUY NGƯỢC Tác giả Nguyễn Anh DũngChúng ta thực sự có hạnh phúc không? Chúng ta có đang sống cuộc đời mình không? Chúng ta có dám dũng cảm chiến thắng mọi khuôn mẫu, định kiến, đi ngược đám đông đ...",
+      "specifications": [
+        {
+          "name": "Thông tin chung",
+          "attributes": [
+            {
+              "code": "publisher_vn",
+              "name": "Công ty phát hành",
+              "value": "SBOOKS"
+            },
+            {
+              "code": "publication_date",
+              "name": "Ngày xuất bản",
+              "value": "2021-08-30 17:57:39"
+            },
+            {
+              "code": "edition",
+              "name": "Phiên bản",
+              "value": "Tiếng việt"
+            },
+            {
+              "code": "book_cover",
+              "name": "Loại bìa",
+              "value": "Bìa mềm"
+            },
+            {
+              "code": "number_of_page",
+              "name": "Số trang",
+              "value": "244"
+            },
+            {
+              "code": "manufacturer",
+              "name": "Nhà xuất bản",
+              "value": "NXB Dân Trí"
+            }
+          ]
+        }
+      ],
+      "id": 21
+    },
+    {
+      "authors": [
+        {
+          "id": 843855,
+          "name": "VARIOS AUTORES",
+          "slug": "varios-autores"
+        }
+      ],
+      "book_cover": null,
+      "categories": {
+        "name": "Grammar, vocabulary & skills"
+      },
+      "current_seller": {
+        "id": 53660,
+        "sku": "4512866829739",
+        "name": "Nhà sách Fahasa",
+        "link": "https://tiki.vn/cua-hang/nha-sach-fahasa",
+        "logo": "ce/b3/22/b8fabaef7909cfe7349e7b538a174ab8.jpg",
+        "price": 282150,
+        "product_id": "92905656",
+        "store_id": 51001,
+        "is_best_store": false,
+        "is_offline_installment_supported": null
+      },
+      "description": "<p style=\"text-align: justify;\"><strong>Oxford Word Skills: Elementary: Student's Pack</strong></p> \n  <p style=\"text-align: justify;\">The first level in a three-level topic-based vocabulary course to learn and practise the words that learners need to know at each CEFR level, based on the Oxford 3000TM.</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>\n<p style=\"text-align: justify;\"><strong>Oxford Word Skills: Elementary: Student's Pack</strong></p> \n  <p style=\"text-align: justify;\">The first level in a three-level topic-based vocabulary course to learn and practise the words that learners need to know at each CEFR level, based on the Oxford 3000TM.</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>\n<p style=\"text-align: justify;\"><strong>Oxford Word Skills: Elementary: Student's Pack</strong></p> \n  <p style=\"text-align: justify;\">The first level in a three-level topic-based vocabulary course to learn and practise the words that learners need to know at each CEFR level, based on the Oxford 3000TM.</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>\n<p style=\"text-align: justify;\"><strong>Oxford Word Skills: Elementary: Student's Pack</strong></p> \n  <p style=\"text-align: justify;\">The first level in a three-level topic-based vocabulary course to learn and practise the words that learners need to know at each CEFR level, based on the Oxford 3000TM.</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>\n<p style=\"text-align: justify;\"><strong>Oxford Word Skills: Elementary: Student's Pack</strong></p> \n  <p style=\"text-align: justify;\">The first level in a three-level topic-based vocabulary course to learn and practise the words that learners need to know at each CEFR level, based on the Oxford 3000TM.</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>\n<p style=\"text-align: justify;\"><strong>Oxford Word Skills: Elementary: Student's Pack</strong></p> \n  <p style=\"text-align: justify;\">The first level in a three-level topic-based vocabulary course to learn and practise the words that learners need to know at each CEFR level, based on the Oxford 3000TM.</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "images": [
+        {
+          "base_url": "https://salt.tikicdn.com/ts/product/9c/43/04/0fb2bfef1d5fc8861d50d8ebae279027.jpg",
+          "is_gallery": true,
+          "label": null,
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/9c/43/04/0fb2bfef1d5fc8861d50d8ebae279027.jpg",
+          "medium_url": "https://salt.tikicdn.com/cache/w300/ts/product/9c/43/04/0fb2bfef1d5fc8861d50d8ebae279027.jpg",
+          "position": null,
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/9c/43/04/0fb2bfef1d5fc8861d50d8ebae279027.jpg",
+          "thumbnail_url": "https://salt.tikicdn.com/cache/200x280/ts/product/9c/43/04/0fb2bfef1d5fc8861d50d8ebae279027.jpg"
+        }
+      ],
+      "list_price": 297000,
+      "name": "Oxford Word Skills: Elementary: Student's Pack",
+      "original_price": "297000",
+      "quantity_sold": {
+        "text": "Đã bán 71"
+      },
+      "rating_average": 5,
+      "short_description": "Oxford Word Skills: Elementary: Student's Pack   The first level in a three-level topic-based vocabulary course to learn and practise the words that learners need to know at each CEFR level, based on...",
+      "specifications": [
+        {
+          "name": "Thông tin chung",
+          "attributes": [
+            {
+              "code": "publisher_vn",
+              "name": "Công ty phát hành",
+              "value": "Oxford University Press"
+            },
+            {
+              "code": "manufacturer",
+              "name": "Nhà xuất bản",
+              "value": "Oxford University Press"
+            },
+            {
+              "code": "isbn13",
+              "name": "ISBN-13",
+              "value": "9780194605663"
+            }
+          ]
+        }
+      ],
+      "id": 25
+    },
+    {
+      "authors": [
+        {
+          "id": 46343,
+          "name": "R. J. Palacio",
+          "slug": ""
+        }
+      ],
+      "book_cover": null,
+      "categories": {
+        "id": 9,
+        "name": "Fiction - Literature",
+        "is_leaf": false
+      },
+      "current_seller": {
+        "id": 53660,
+        "sku": "9396019263873",
+        "name": "Nhà sách Fahasa",
+        "link": "https://tiki.vn/cua-hang/nha-sach-fahasa",
+        "logo": "ce/b3/22/b8fabaef7909cfe7349e7b538a174ab8.jpg",
+        "price": 139650,
+        "product_id": "21229840",
+        "store_id": 51001,
+        "is_best_store": false,
+        "is_offline_installment_supported": null
+      },
+      "description": "<p style=\"text-align: justify;\"><span style=\"color: #ff6600; font-size: medium;\"><strong>Wonder</strong></span></p>\r\n<p style=\"text-align: justify;\">\"My name is August. I won't describe what I look like. Whatever you're thinking, it's probably worse.\" Auggie wants to be an ordinary ten-year-old. He does ordinary things - eating ice cream, playing on his Xbox. He feels ordinary - inside. But ordinary kids don't make other ordinary kids run away screaming in playgrounds. Ordinary kids aren't stared at wherever they go. Born with a terrible facial abnormality, Auggie has been home-schooled by his parents his whole life. Now, for the first time, he's being sent to a real school - and he's dreading it. All he wants is to be accepted - but can he convince his new classmates that he's just like them, underneath it all? Wonder is a funny, frank, astonishingly moving debut to read in one sitting, pass on to others, and remember long after the final page.</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "images": [
+        {
+          "base_url": "https://salt.tikicdn.com/ts/product/3d/dd/d4/94dcc8f1290da143544b9c4da7e8042a.jpg",
+          "is_gallery": true,
+          "label": null,
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/3d/dd/d4/94dcc8f1290da143544b9c4da7e8042a.jpg",
+          "medium_url": "https://salt.tikicdn.com/cache/w300/ts/product/3d/dd/d4/94dcc8f1290da143544b9c4da7e8042a.jpg",
+          "position": null,
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/3d/dd/d4/94dcc8f1290da143544b9c4da7e8042a.jpg",
+          "thumbnail_url": "https://salt.tikicdn.com/cache/200x280/ts/product/3d/dd/d4/94dcc8f1290da143544b9c4da7e8042a.jpg"
+        }
+      ],
+      "list_price": 147000,
+      "name": "Truyện đọc tiếng Anh - Wonder",
+      "original_price": 147000,
+      "quantity_sold": {
+        "text": "Đã bán 469",
+        "value": 469
+      },
+      "rating_average": 5,
+      "short_description": "Wonder \"My name is August. I won't describe what I look like. Whatever you're thinking, it's probably worse.\" Auggie wants to be an ordinary ten-year-old. He does ordinary things - eating ice cream, ...",
+      "specifications": [
+        {
+          "name": "Thông tin chung",
+          "attributes": [
+            {
+              "code": "publisher_vn",
+              "name": "Công ty phát hành",
+              "value": "Penguin Random House"
+            },
+            {
+              "code": "manufacturer",
+              "name": "Nhà xuất bản",
+              "value": "Penguin Random House UK"
+            },
+            {
+              "code": "publication_date",
+              "name": "Ngày xuất bản",
+              "value": "2012-07-22 00:00:00"
+            },
+            {
+              "code": "isbn13",
+              "name": "ISBN-13",
+              "value": "9780552565974"
+            },
+            {
+              "code": "dimensions",
+              "name": "Kích thước",
+              "value": "198 x 129 x 20 mm"
+            },
+            {
+              "code": "book_cover",
+              "name": "Loại bìa",
+              "value": "Paperback"
+            },
+            {
+              "code": "isbn",
+              "name": "ISBN-10",
+              "value": "9780552565974"
+            }
+          ]
+        }
+      ],
+      "id": 27
+    },
+    {
+      "authors": [
+        {
+          "id": 10081,
+          "name": "Antoine De Saint-Exupéry",
+          "slug": "antoine-desaint-exupery"
+        }
+      ],
+      "book_cover": null,
+      "categories": {
+        "id": 9,
+        "name": "Fiction - Literature",
+        "is_leaf": false
+      },
+      "current_seller": {
+        "id": 12696,
+        "sku": "4674425006297",
+        "name": "Blue Horizon Books",
+        "link": "https://tiki.vn/cua-hang/blue-horizon-books",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/72/ca/03/460dfe41783bdc9281d13b3ea4e4be2d.png",
+        "price": 115000,
+        "product_id": "48574504",
+        "store_id": 12362,
+        "is_best_store": false,
+        "is_offline_installment_supported": null
+      },
+      "description": "<h3 class=\"productDescriptionSource\" style=\"text-align: justify;\"><span style=\"font-size: medium; color: #0000ff;\">The Little Prince</span></h3>\r\n<p style=\"text-align: justify;\"><strong>The Little Prince</strong> is a classic tale of equal appeal to children and adults. On one level it is the story of an airman's discovery, in the desert, of a small boy from another planet - the Little Prince of the title - and his stories of intergalactic travel, while on the other hand it is a thought-provoking allegory of the human condition. First published in 1943, the year before the author's death in action, this translation contains <strong>Saint-Exupery's</strong> delightful illustrations.</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "images": [
+        {
+          "base_url": "https://salt.tikicdn.com/ts/product/99/ec/9a/f5f8a3f7e1f430c571cf8315e3b160ed.jpg",
+          "is_gallery": true,
+          "label": null,
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/99/ec/9a/f5f8a3f7e1f430c571cf8315e3b160ed.jpg",
+          "medium_url": "https://salt.tikicdn.com/cache/w300/ts/product/99/ec/9a/f5f8a3f7e1f430c571cf8315e3b160ed.jpg",
+          "position": null,
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/99/ec/9a/f5f8a3f7e1f430c571cf8315e3b160ed.jpg",
+          "thumbnail_url": "https://salt.tikicdn.com/cache/200x280/ts/product/99/ec/9a/f5f8a3f7e1f430c571cf8315e3b160ed.jpg"
+        },
+        {
+          "base_url": "https://salt.tikicdn.com/ts/product/3f/b7/35/4ac85e62c730874048ef67557d351878.jpg",
+          "is_gallery": true,
+          "label": null,
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/3f/b7/35/4ac85e62c730874048ef67557d351878.jpg",
+          "medium_url": "https://salt.tikicdn.com/cache/w300/ts/product/3f/b7/35/4ac85e62c730874048ef67557d351878.jpg",
+          "position": null,
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/3f/b7/35/4ac85e62c730874048ef67557d351878.jpg",
+          "thumbnail_url": "https://salt.tikicdn.com/cache/200x280/ts/product/3f/b7/35/4ac85e62c730874048ef67557d351878.jpg"
+        },
+        {
+          "base_url": "https://salt.tikicdn.com/ts/product/ac/93/36/ac1e75c1e057de5f1d50528f7332946b.jpg",
+          "is_gallery": true,
+          "label": null,
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/ac/93/36/ac1e75c1e057de5f1d50528f7332946b.jpg",
+          "medium_url": "https://salt.tikicdn.com/cache/w300/ts/product/ac/93/36/ac1e75c1e057de5f1d50528f7332946b.jpg",
+          "position": null,
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/ac/93/36/ac1e75c1e057de5f1d50528f7332946b.jpg",
+          "thumbnail_url": "https://salt.tikicdn.com/cache/200x280/ts/product/ac/93/36/ac1e75c1e057de5f1d50528f7332946b.jpg"
+        }
+      ],
+      "list_price": 115000,
+      "name": "Truyện đọc tiếng Anh - Wordsworth Editions: The Little Prince",
+      "original_price": 115000,
+      "quantity_sold": {
+        "text": "Đã bán 357",
+        "value": 357
+      },
+      "rating_average": 4.7,
+      "short_description": "The Little Prince The Little Prince is a classic tale of equal appeal to children and adults. On one level it is the story of an airman's discovery, in the desert, of a small boy from another planet ...",
+      "specifications": [
+        {
+          "name": "Thông tin chung",
+          "attributes": [
+            {
+              "code": "publisher_vn",
+              "name": "Công ty phát hành",
+              "value": "Wordsworth Editions Ltd"
+            },
+            {
+              "code": "manufacturer",
+              "name": "Nhà xuất bản",
+              "value": "Wordsworth Editions Ltd"
+            },
+            {
+              "code": "publication_date",
+              "name": "Ngày xuất bản",
+              "value": "1999-03-01 00:00:00"
+            },
+            {
+              "code": "isbn13",
+              "name": "ISBN-13",
+              "value": "9781853261589"
+            },
+            {
+              "code": "dimensions",
+              "name": "Kích thước",
+              "value": "198 x 129 x 6 mm"
+            },
+            {
+              "code": "book_cover",
+              "name": "Loại bìa",
+              "value": "Paperback"
+            },
+            {
+              "code": "number_of_page",
+              "name": "Số trang",
+              "value": "109"
+            },
+            {
+              "code": "isbn",
+              "name": "ISBN-10",
+              "value": "9781853261589"
+            }
+          ]
+        }
+      ],
+      "id": 28
+    },
+    {
+      "authors": [
+        {
+          "id": 931,
+          "name": "Frances Hodgson Burnett",
+          "slug": "frances-hodgson-burnett"
+        }
+      ],
+      "book_cover": null,
+      "categories": {
+        "id": "111",
+        "name": "Nguyễn Xuân Đạt update "
+      },
+      "current_seller": {
+        "id": 53660,
+        "sku": "2252779088217",
+        "name": "Nhà sách Fahasa",
+        "link": "https://tiki.vn/cua-hang/nha-sach-fahasa",
+        "logo": "ce/b3/22/b8fabaef7909cfe7349e7b538a174ab8.jpg",
+        "price": 114950,
+        "product_id": "56449628",
+        "store_id": 51001,
+        "is_best_store": false,
+        "is_offline_installment_supported": null
+      },
+      "description": "<p style=\"text-align: justify;\"><span style=\"font-size: medium; color: #0000ff;\"><strong>The Secret Garden (Vintage Children's Classics)</strong></span></p>\n<p style=\"text-align: justify;\">When Mary Lennox is sent to Misselthwaite Manor to live with her uncle everybody says she is the most disagreeable-looking child ever seen. It is true, too. Mary is pale, spoilt and quite contrary. But she is also horribly lonely. Then one day she hears about a garden in the grounds of the Manor that has been kept locked and hidden for years. And when a friendly robin helps Mary find the key, she discovers the most magical place anyone could imagine...</p>\n<p style=\"text-align: justify;\">BACKSTORY: Take our quiz, learn about the plucky author and find out about the real secret garden.</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "images": [
+        {
+          "base_url": "https://salt.tikicdn.com/media/catalog/product/5/1/51yxa3joyxl-_sx340_bo1-204-203-200_.u547.d20161128.t081505.698314.jpg",
+          "is_gallery": true,
+          "label": null,
+          "large_url": "https://salt.tikicdn.com/cache/w1200/media/catalog/product/5/1/51yxa3joyxl-_sx340_bo1-204-203-200_.u547.d20161128.t081505.698314.jpg",
+          "medium_url": "https://salt.tikicdn.com/cache/w300/media/catalog/product/5/1/51yxa3joyxl-_sx340_bo1-204-203-200_.u547.d20161128.t081505.698314.jpg",
+          "position": null,
+          "small_url": "https://salt.tikicdn.com/cache/200x280/media/catalog/product/5/1/51yxa3joyxl-_sx340_bo1-204-203-200_.u547.d20161128.t081505.698314.jpg",
+          "thumbnail_url": "https://salt.tikicdn.com/cache/200x280/media/catalog/product/5/1/51yxa3joyxl-_sx340_bo1-204-203-200_.u547.d20161128.t081505.698314.jpg"
+        }
+      ],
+      "list_price": 121000,
+      "name": "The Secret Garden (Vintage Children's Classics)",
+      "original_price": "121000",
+      "quantity_sold": {
+        "text": "Đã bán 9"
+      },
+      "rating_average": 5,
+      "short_description": "The Secret Garden (Vintage Children's Classics) When Mary Lennox is sent to Misselthwaite Manor to live with her uncle everybody says she is the most disagreeable-looking child ever seen. It is true,...",
+      "specifications": [
+        {
+          "name": "Thông tin chung",
+          "attributes": [
+            {
+              "code": "publisher_vn",
+              "name": "Công ty phát hành",
+              "value": "Penguin Random House"
+            },
+            {
+              "code": "manufacturer",
+              "name": "Nhà xuất bản",
+              "value": "Penguin Random House US"
+            },
+            {
+              "code": "publication_date",
+              "name": "Ngày xuất bản",
+              "value": "2012-08-02 00:00:00"
+            },
+            {
+              "code": "isbn13",
+              "name": "ISBN-13",
+              "value": "9780099572954"
+            },
+            {
+              "code": "dimensions",
+              "name": "Kích thước",
+              "value": "188 x 129 x 24 mm"
+            },
+            {
+              "code": "book_cover",
+              "name": "Loại bìa",
+              "value": "Paperback"
+            },
+            {
+              "code": "number_of_page",
+              "name": "Số trang",
+              "value": "384"
+            },
+            {
+              "code": "isbn",
+              "name": "ISBN-10",
+              "value": "9780099572954"
+            }
+          ]
+        }
+      ],
+      "id": 30
+    }
+  ]
+}
