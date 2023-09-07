@@ -1,4 +1,4 @@
-import Category from "../models/category";
+import Category from "../models/category.js";
 import Joi from "joi";
 
 const CategorySchema = Joi.object({

@@ -1,4 +1,4 @@
-import Icon from "../models/icon";
+import Icon from "../models/icon.js";
 
 export const getAllIcon = async (req, res) => {
   try {

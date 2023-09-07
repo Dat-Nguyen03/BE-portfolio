@@ -1,12 +1,12 @@
 import express from "express";
 
-import { checkPermission } from "../middlewares/checkPermission";
+import { checkPermission } from "../middlewares/checkPermission.js";
 import {
   createSeting,
   getAllSetting,
   getSetting,
   updateSetting,
-} from "../controllers/setting";
+} from "../controllers/setting.js";
 
 const router = express.Router();
 router.get("/setting", getAllSetting), 4;

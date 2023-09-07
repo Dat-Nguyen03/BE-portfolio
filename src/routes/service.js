@@ -5,8 +5,8 @@ import {
   getOneService,
   removeService,
   updateService,
-} from "../controllers/service";
-import { checkPermission } from "../middlewares/checkPermission";
+} from "../controllers/service.js";
+import { checkPermission } from "../middlewares/checkPermission.js";
 const router = express.Router();
 
 router.get("/services", getAll);

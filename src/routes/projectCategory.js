@@ -5,8 +5,8 @@ import {
   getProjectCategory,
   removeProjectCategory,
   updateProjectCategory,
-} from "../controllers/projectCategory";
-import { checkPermission } from "../middlewares/checkPermission";
+} from "../controllers/projectCategory.js";
+import { checkPermission } from "../middlewares/checkPermission.js";
 
 const router = express.Router();
 router.get("/project-category", getAllProjectCategory);

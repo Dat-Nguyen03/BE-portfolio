@@ -1,16 +1,16 @@
 import express from "express";
 import mongoose from "mongoose";
 import cors from "cors";
-import productRouter from "./routes/product";
-import authRouter from "./routes/auth";
-import categoryRouter from "./routes/category";
-import projectRouter from "./routes/project";
-import projectCategoryRouter from "./routes/projectCategory";
-import serviceRouter from "./routes/service";
-import settingRouter from "./routes/setting";
-import aboutRouter from "./routes/about";
-import iconRouter from "./routes/icon";
-import techologyRouter from "./routes/techology";
+import productRouter from "./routes/product.js";
+import authRouter from "./routes/auth.js";
+import categoryRouter from "./routes/category.js";
+import projectRouter from "./routes/project.js";
+import projectCategoryRouter from "./routes/projectCategory.js";
+import serviceRouter from "./routes/service.js";
+import settingRouter from "./routes/setting.js";
+import aboutRouter from "./routes/about.js";
+import iconRouter from "./routes/icon.js";
+import techologyRouter from "./routes/techology.js";
 import * as dotenv from "dotenv";
 
 dotenv.config();
@@ -40,4 +40,9 @@ mongoose
     console.log(err);
   });
 
-export const viteNodeApp = app;
+const port = process.env.PORT || 5000;
+app.listen(port, () => {
+  console.log(`Server is running on port ${port}`);
+});
+
+// export const viteNodeApp = app;

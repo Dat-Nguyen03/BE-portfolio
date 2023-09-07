@@ -1,4 +1,4 @@
-import Techology from "../models/techology";
+import Techology from "../models/techology.js";
 
 export const getAllTechology = async (req, res) => {
   try {

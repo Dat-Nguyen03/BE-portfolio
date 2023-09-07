@@ -1,5 +1,5 @@
 import jwt from "jsonwebtoken";
-import User from "../models/user";
+import User from "../models/user.js";
 import * as dotenv from "dotenv";
 dotenv.config();
 // B1: Kiểm tra xem user đã đăng nhập chưa?

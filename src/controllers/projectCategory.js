@@ -1,4 +1,4 @@
-import ProjectCategory from "../models/projectCategory";
+import ProjectCategory from "../models/projectCategory.js";
 
 export const getAllProjectCategory = async (req, res) => {
   try {

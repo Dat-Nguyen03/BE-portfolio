@@ -1,5 +1,5 @@
 import Joi from "joi";
-import Service from "../models/service";
+import Service from "../models/service.js";
 
 export const getAll = async (req, res) => {
   try {

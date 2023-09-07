@@ -4,7 +4,7 @@ import {
   getAllIcon,
   getIcon,
   updateIcon,
-} from "../controllers/icon";
+} from "../controllers/icon.js";
 
 const router = express.Router();
 router.get("/icon", getAllIcon);

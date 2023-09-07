@@ -1,6 +1,6 @@
-import Project from "../models/project";
-import ProjectCategory from "../models/projectCategory";
-import Techology from "../models/techology";
+import Project from "../models/project.js";
+import ProjectCategory from "../models/projectCategory.js";
+import Techology from "../models/techology.js";
 import Joi from "joi";
 
 export const getAllProject = async (req, res) => {

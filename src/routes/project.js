@@ -5,8 +5,8 @@ import {
   getOneProject,
   remove,
   updateProject,
-} from "../controllers/project";
-import { checkPermission } from "../middlewares/checkPermission";
+} from "../controllers/project.js";
+import { checkPermission } from "../middlewares/checkPermission.js";
 const router = express.Router();
 
 router.get("/projects", getAllProject);

@@ -6,7 +6,8 @@
   "type": "module",
   "scripts": {
     "vite": "vite",
-    "dev": "concurrently \"vite\""
+    "dev": "concurrently \"vite\"",
+    "start": "nodemon ./src/app.js"
   },
   "keywords": [],
   "author": "",
