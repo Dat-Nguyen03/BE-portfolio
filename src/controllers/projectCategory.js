@@ -19,7 +19,9 @@ export const getAllProjectCategory = async (req, res) => {
 export const getProjectCategory = async (req, res) => {
   try {
     const ProjectCategoryId = req.params.id;
-    const projectCategory = await ProjectCategory.findById(ProjectCategoryId);
+    const projectCategory = await ProjectCategory.findById(
+      ProjectCategoryId
+    ).populate("projects");
     if (!projectCategory) {
       return res.status(400).json({
         message: "Khong tim thay",
