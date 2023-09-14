@@ -11,6 +11,7 @@ import settingRouter from "./routes/setting.js";
 import aboutRouter from "./routes/about.js";
 import iconRouter from "./routes/icon.js";
 import techologyRouter from "./routes/techology.js";
+import contactRouter from "./routes/contact.router.js";
 import * as dotenv from "dotenv";
 
 dotenv.config();
@@ -30,6 +31,7 @@ app.use("/api", aboutRouter);
 app.use("/api", iconRouter);
 app.use("/api", projectCategoryRouter);
 app.use("/api", techologyRouter);
+app.use("/api", contactRouter);
 
 mongoose
   .connect(process.env.MONGO_URI)
